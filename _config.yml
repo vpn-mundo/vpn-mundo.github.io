@@ -1,20 +1,27 @@
 title: Tema personalizado Cayman
 description: Your global VPN guide - Unlock Netflix, secure your privacy, and game without lag on public Wi-Fi
+
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
+
 color:
-  header: "#0f172a"          
-  gradient_left: "#4f83cc"   
-  gradient_right: "#1e3a8a"  
-logo_url: https://github.githubassets.com/images/icons/emoji/globe.png  # Ícono global
+  header: "#020617"          # 極深藍黑（比純黑高級）
+  gradient_left: "#0ea5e9"   # VPN 感電藍（Sky 500）
+  gradient_right: "#1e40af"  # 深藍（Blue 800）
+
+logo_url: https://github.githubassets.com/images/icons/emoji/globe.png
+
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+
 buttons:
   zip_url: https://github.com/VPNuniverse/VPNuniverse.github.io
   zip_title: Download the VPNuniverse introduction
   zip_hide: false
   tar_hide: true
   github_hide: true
-permalink: /:path/  # Soporte para subdirectorios
+
+permalink: /:path/
+
 collections:
   es:
     output: true
