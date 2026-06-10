@@ -53,6 +53,25 @@ Muchas VPN muestran precios bajos solo en planes largos. Antes de comprar convie
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=streaming) | Dispositivos ilimitados | Familias y usuarios con muchas pantallas | El mejor precio suele requerir plan largo. |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github) | Prueba rápida | Verificar compatibilidad antes de pagar | Menos conocido; revisa rendimiento en tu país. |
 
+## Plataformas y escenarios que conviene probar
+
+Antes de pagar un año completo, prueba la VPN con las plataformas que realmente usas. En el mercado hispano, el problema no es solo “ver Netflix”: también importan fútbol, viajes, Wi-Fi de hotel y catálogos que cambian entre España, México, Argentina, Colombia, Chile y Estados Unidos.
+
+| Escenario | Plataformas a probar | VPN sugerida para empezar |
+|---|---|---|
+| España desde el extranjero | RTVE Play, Atresplayer, Mitele, Movistar Plus+, DAZN España | [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-home&data2=local_platforms) / [ExpressVPN](https://go.expressvpn.com/c/3828265/1509296/16063) |
+| Streaming internacional | Netflix, Disney+, Prime Video, Max | ExpressVPN / StrongVPN |
+| Fútbol y eventos en directo | DAZN, ESPN, Fox Sports, servicios locales | ExpressVPN por estabilidad; Surfshark si hay muchas pantallas |
+| Familia y muchos dispositivos | móviles, portátil, tablet, Smart TV, Fire TV | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=streaming) |
+| Prueba rápida antes de comprar | tu red, tu país, tu dispositivo principal | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github) |
+
+### Checklist de reembolso
+
+1. Prueba la misma plataforma con Wi-Fi de casa, datos móviles y una red pública.
+2. Cambia entre 2 o 3 servidores del mismo país antes de descartar una VPN.
+3. Revisa DNS/WebRTC y borra cookies si aparece un error regional.
+4. Apunta país, servidor, hora y dispositivo. Si falla tu caso principal, pide reembolso dentro del plazo.
+
 ## Prueba diaria de velocidad VPN
 
 Una VPN no se juzga por una sola captura. La velocidad cambia por hora, pais, protocolo, servidor y congestion. Por eso mantenemos una gráfica de pruebas repetidas y comparamos tendencias de 7, 14, 30 y 90 días.
@@ -608,7 +627,7 @@ Esta tabla incluye VPNs con uso incierto, precios altos o ya inactivas para ayud
 Al seleccionar un servicio VPN, considera estos factores clave:
 
 #### 1. Marcas estables y confiables
-Con las restricciones de red cada vez más estrictas, protocolos comunes como PPTP son fácilmente detectados y bloqueados. Una vez que un IP es identificado, suele volverse inutilizable, un problema también presente en servidores propios como SSR.  
+Con las restricciones de red cada vez más estrictas, protocolos comunes como PPTP son fácilmente detectados y bloqueados. Una vez que un IP es identificado, suele volverse inutilizable, un problema también presente en servidores saturados o IPs compartidas.  
 Elegir una VPN de una marca grande y estable es crucial. Requiere un respaldo financiero y técnico sólido para adaptarse a actualizaciones de red y mantener la estabilidad a largo plazo.
 
 #### 2. Pruebas y uso personal
@@ -623,7 +642,7 @@ Si usas Windows o macOS, la compatibilidad no suele ser un problema. La mayoría
 ExpressVPN, StrongVPN y FlowVPN permiten hasta 5 conexiones simultáneas, mientras que Surfshark ofrece conexiones ilimitadas. Recuerda que esto es solo para uso simultáneo; puedes instalar estas VPNs en más dispositivos, pero no conectarlas todos a la vez.
 
 #### 3. Técnica de túnel dividido
-El túnel dividido (VPN split tunneling) te permite elegir qué apps usan la VPN y cuáles no. Por ejemplo, usa un navegador para ver contenido local como iQiyi sin VPN, y otro para IEEE con VPN, optimizando tu velocidad. Esto mitiga la ralentización típica del encriptado VPN.
+El túnel dividido (VPN split tunneling) te permite elegir qué apps usan la VPN y cuáles no. Por ejemplo, usa un navegador para contenido local sin VPN y otro para Netflix, Disney+ o DAZN con VPN, optimizando tu velocidad. Esto mitiga la ralentización típica del encriptado VPN.
 
 #### 4. Ancho de banda (bandwidth)
 Un tema a menudo malentendido: el ancho de banda determina cuántos datos puedes transmitir a la vez. Más ancho de banda significa mejor calidad de video. Un VPN con ancho de banda ilimitado asegura que otros usuarios no afecten tu velocidad, a diferencia de límites de datos (por ejemplo, 10 GB diarios para 2-3 películas en HD).
@@ -965,20 +984,18 @@ Una VPN no supera tu conexión original. Si ya tienes problemas de velocidad, us
 
 **Conclusión**: El impacto depende de factores como el proveedor. Elige uno de calidad para minimizar pérdidas.
 
-### Diferencias entre software de acceso y VPNs
-<a name="diferencias-entre-software-de-acceso-y-vpns"></a>
-Términos como "software de acceso" y "VPN" (Red Privada Virtual) suelen usarse para gestionar restricciones regionales, pero tienen diferencias clave:
+### Qué hacer si una plataforma bloquea la VPN
 
-#### 1. Software de acceso: Herramientas específicas para censura
-"Software de acceso" se refiere a herramientas diseñadas para gestionar conexiones en redes restringidas, como Shadowsocks o Lantern, que disfrazan el tráfico para parecer normal.
+Las plataformas de streaming bloquean direcciones IP de VPN con frecuencia. Si aparece un error regional, no significa que la VPN no sirva: muchas veces basta con cambiar servidor, limpiar cookies o probar otra app.
 
-#### 2. VPN: Solución integral de seguridad y privacidad
-Una VPN es más versátil, no solo evade censuras, sino que encripta tu conexión, oculta tu IP y protege datos. Aunque puede usarse para acceder contenido, su enfoque amplio puede ser menos eficiente en ciertas restricciones.
+- Cambia a otro servidor del mismo país.
+- Limpia cookies o prueba una ventana privada.
+- Desactiva ubicación precisa en móvil si la app la usa.
+- Comprueba fugas DNS/WebRTC.
+- Prueba durante 15-30 minutos, no solo si la página carga.
 
-**Resumen**: Ambos tienen propósitos distintos. Elige según tus necesidades y el entorno de red.
+Para usuarios de España y Latinoamérica, esto es más útil que estudiar herramientas proxy avanzadas. La pregunta comercial es simple: ¿funciona con tus plataformas durante el periodo de reembolso?
 
-
-<a name="Usos avanzados y compatibilidad de VPN"></a>
 ## Usos avanzados y compatibilidad de VPN
 
 ### Cómo cambiar tu VPN regularmente para mayor seguridad
@@ -1041,26 +1058,16 @@ Disney+, otro gigante del streaming, varía su contenido por región. Una VPN te
 
 
 <a name="introduccion-a-los-protocolos-comunes-de-vpn"></a>
-## Introducción a los protocolos comunes de VPN
+## Protocolos VPN que sí importan al usuario normal
 
-Cuando se trata de seguridad en línea, hay muchas opciones. Dos de las más populares son VPN y SSR. Ambas ofrecen ventajas, pero con diferencias clave. Una VPN (Red Privada Virtual) encripta todo el tráfico entre tu dispositivo y el servidor, dificultando que terceros intercepten datos maliciosamente. SSR (Relay de Sockets Seguros) reenvía datos a través de servidores seguros, manteniéndolos encriptados y protegidos de escuchas, aunque puede ser más lento que una VPN. Al elegir, pesa pros y contras según tus necesidades.
+No hace falta configurar herramientas complejas para elegir bien. Empieza con el modo automático de la app y cambia de protocolo solo si hay cortes, velocidad baja o bloqueo en una red concreta.
 
-**Computación heterogénea**
-
-Hoy, los sistemas múltiples son comunes, combinando VPN con SSR, V2Ray, Trojan y más, conocidos como **computación heterogénea**. Esto es clave por varias razones: aprovecha la potencia de múltiples dispositivos, distribuye la carga de encriptación intensiva y asegura escalabilidad ante tráfico alto, mejorando la experiencia del usuario. Veamos las tecnologías comunes:
-
-Para quienes buscan gestionar restricciones regionales, hay muchas opciones, cada una con pros y contras. Herramientas como V2Ray o Shadowsocks son populares para servidores propios, pero son complejas para novatos y sus IPs pueden ser bloqueadas. Aunque Shadowsocks y su versión avanzada SSR son fáciles de usar, su código abierto los hace vulnerables a ser descifrados, comprometiendo privacidad.  
-Un estudio de la Universidad de Beijing de 2019 sobre detección de tráfico V2Ray sugiere que su eficacia podría disminuir si se implementa en sistemas de filtrado.  
-En resumen, una VPN es la opción más simple y directa, ideal para no expertos. Mantén tu privacidad y ten herramientas de respaldo ante fallos.
-
-#### SSR (ShadowsocksR):
-ShadowsocksR (SSR) es un software proxy para gestionar filtros y redes restringidas. Enruta tráfico a través de túneles encriptados, dificultando su monitoreo por ISPs o gobiernos. Como una rama de Shadowsocks, se considera más segura y eficiente, con seguidores entre quienes priorizan privacidad.
-
-#### V2Ray:
-V2Ray es una herramienta de código abierto para enrutar tráfico de forma segura, usada para gestionar restricciones regionales. Compatible con Windows, Mac, Linux y Android, también ofrece extensiones para Chrome y Firefox. Soporta protocolos como vmess, shadowsocks, socks, http/socks, vless, con obfsproxy para ocultar tráfico y UDP/TCP/HTTP/Socks5. Incluye un servidor web para archivos estáticos y túneles encriptados.
-
-#### Trojan:
-Trojan, originalmente un malware, se ha adaptado como herramienta de seguridad para enrutar tráfico encriptado, evadiendo restricciones. Requiere configuración cuidadosa para evitar riesgos y maximizar privacidad.
+| Protocolo | Mejor uso | Nota práctica |
+|---|---|---|
+| WireGuard / Lightway | streaming, velocidad, móvil | suele ser la mejor primera opción |
+| OpenVPN UDP | equilibrio entre velocidad y estabilidad | bueno para redes normales |
+| OpenVPN TCP | hotel, universidad, oficina, Wi-Fi restrictivo | más lento, pero a veces conecta mejor |
+| IKEv2 | móvil y cambios entre Wi-Fi/datos | útil si viajas mucho |
 
 ### Diferencias y escenarios de uso entre VPN y Tor
 <a name="Diferencias y escenarios de uso entre VPN y Tor"></a>
