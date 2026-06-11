@@ -74,9 +74,9 @@ Antes de pagar un año completo, prueba la VPN con las plataformas que realmente
 
 ## Mundial 2026: VPN para viajes, streaming y sorteo de entradas
 
-![Estadio de fútbol de noche](https://upload.wikimedia.org/wikipedia/commons/1/1d/Worldcup_2010_Soccer_Stadium_at_night_-_panoramio.jpg)
+![Estadio de fútbol de noche](./image/worldcup/world-cup-2026-stadium.png)
 
-*Photo: ngrund, CC BY 3.0, via Wikimedia Commons.*
+*Illustration created for this site.*
 
 El Mundial 2026 se juega del 11 de junio al 19 de julio en Estados Unidos, Canadá y México. Para usuarios de España y Latinoamérica, el momento no es solo streaming: también hay viajes, Wi-Fi de hoteles, aeropuertos, bares, pagos, correos y cuentas de entradas.
 
