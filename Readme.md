@@ -72,6 +72,24 @@ Antes de pagar un año completo, prueba la VPN con las plataformas que realmente
 3. Revisa DNS/WebRTC y borra cookies si aparece un error regional.
 4. Apunta país, servidor, hora y dispositivo. Si falla tu caso principal, pide reembolso dentro del plazo.
 
+## Mundial 2026: VPN para viajes, streaming y sorteo de entradas
+
+![Estadio de fútbol de noche](https://upload.wikimedia.org/wikipedia/commons/1/1d/Worldcup_2010_Soccer_Stadium_at_night_-_panoramio.jpg)
+
+*Photo: ngrund, CC BY 3.0, via Wikimedia Commons.*
+
+El Mundial 2026 se juega del 11 de junio al 19 de julio en Estados Unidos, Canadá y México. Para usuarios de España y Latinoamérica, el momento no es solo streaming: también hay viajes, Wi-Fi de hoteles, aeropuertos, bares, pagos, correos y cuentas de entradas.
+
+ExpressVPN comunica que es Official Supporter de la FIFA World Cup 2026 y que gestiona un sorteo de 25 pares de entradas, incluyendo partidos de eliminatorias y un par para la Final. El sorteo pertenece a ExpressVPN; revisa términos, disponibilidad y países elegibles en su página.
+
+| Caso de uso durante el Mundial | Primer clic recomendado | Motivo |
+|---|---|---|
+| Campaña oficial y sorteo de entradas | [Oferta ExpressVPN Mundial 2026](https://go.expressvpn.com/c/3828265/1481161/16063) | Mejor encaje con el mensaje de Official Supporter |
+| VPN de pago con precio más contenido | [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-home&data2=worldcup_block) | Buena opción para viajes, Wi-Fi público y uso diario |
+| Muchos dispositivos en casa | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=worldcup) | Útil para familia, móviles, portátiles y TV |
+
+Antes del primer partido, instala la VPN, prueba tu app de streaming, cambia de servidor si aparece error regional y verifica DNS/WebRTC.
+
 ## Prueba diaria de velocidad VPN
 
 Una VPN no se juzga por una sola captura. La velocidad cambia por hora, pais, protocolo, servidor y congestion. Por eso mantenemos una gráfica de pruebas repetidas y comparamos tendencias de 7, 14, 30 y 90 días.
