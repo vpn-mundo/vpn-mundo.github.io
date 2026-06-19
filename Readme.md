@@ -90,6 +90,10 @@ ExpressVPN comunica que es Official Supporter de la FIFA World Cup 2026 y que ge
 
 Antes del primer partido, instala la VPN, prueba tu app de streaming, cambia de servidor si aparece error regional y verifica DNS/WebRTC.
 
+## Nota sobre precios y moneda local
+
+Los precios de VPN cambian por país, impuestos, moneda, duración del plan y campaña. Si no se muestra tu moneda local, usa el precio en USD solo como referencia y confirma el total en el checkout. Para conversión, mira coste total, renovación, garantía de reembolso y número de dispositivos antes de pagar.
+
 ## Prueba diaria de velocidad VPN
 
 Una VPN no se juzga por una sola captura. La velocidad cambia por hora, pais, protocolo, servidor y congestion. Por eso mantenemos una gráfica de pruebas repetidas y comparamos tendencias de 7, 14, 30 y 90 días.
@@ -145,7 +149,7 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 > ### 1. [Conceptos b?sicos de VPN](#conocimientos-b?sicos-de-navegaci?n-libre)
 > ### 2. [Resumen de funciones recomendadas de VPNs globales](#resumen-de-funciones-recomendadas-de-vpns-globales)
 > #### 2.1 [Recomendación de StrongVPN](#recomendacion-de-strongvpn)
-> #### 2.2 [ExpressVPN - 12 meses + 3 meses gratis](#expressvpn-12-meses-+-3-meses-gratis)
+> #### 2.2 [ExpressVPN - oferta oficial y precio en checkout](#expressvpn-12-meses-+-3-meses-gratis)
 > #### 2.3 [Recomendación de Surfshark - Conexiones ilimitadas](#recomendacion-de-surfshark-conexiones-ilimitadas)
 > #### 2.4 [FlowVPN - Prueba gratuita de dos días](#flowvpn-prueba-gratuita-de-dos-dias)
 > #### 2.5 [Análisis y comparación de políticas de privacidad de proveedores de VPN](#analisis-y-comparacion-de-politicas-de-privacidad-de-proveedores-de-vpn)
@@ -297,8 +301,8 @@ Con esos criterios, las cuatro opciones principales de esta página cubren perfi
 | Política de privacidad | Sin registros |
 
 <a name="expressvpn-12-meses-+-3-meses-gratis"></a>
-### 2. [ExpressVPN - 12 meses + 3 meses gratis](https://go.expressvpn.com/c/3828265/1509296/16063)
-### ExpressVPN - 12 meses + 3 meses gratis
+### 2. [ExpressVPN - oferta oficial y precio en checkout](https://go.expressvpn.com/c/3828265/1509296/16063)
+### ExpressVPN - oferta oficial y precio en checkout
 <img src="./image/speed_test/w_d.png" alt="Prueba de velocidad ExpressVPN" width="1000"/>
 
 
@@ -326,7 +330,7 @@ La protección de privacidad de ExpressVPN usa encriptación industrial. El inte
 - Pagos en varias monedas, incluyendo Bitcoin.
 - Encriptación industrial.
 
-Ahorra dinero con nuestra oferta exclusiva: regístrate y obtén 3 meses gratis con una suscripción anual de ExpressVPN (15 meses totales por 6.67 USD/mes). Ofrecen pagos variados como tarjetas, PayPal, Bitcoin y más.  
+ExpressVPN ahora muestra ofertas por plan y campaña; el precio final puede variar por país, moneda local, impuestos y duración. Revisa el checkout oficial antes de pagar. La referencia útil es comparar coste total, renovación y garantía de reembolso, no solo el precio mensual anunciado.  
 **Instala la app en Android o iOS para una prueba de 7 días, y con la garantía de 30 días, puedes probar sin riesgos.** Cancelar es fácil: no necesitas justificar tu decisión, usa los 30 días y, si no estás satisfecho, solicita tu reembolso sin preocupaciones.
 
 | Característica | ExpressVPN |
@@ -363,7 +367,7 @@ Desbloquea Netflix en cerca de 20 países (EE. UU., Francia, Japón, Italia, Aus
 - Más de 3,200 servidores en 65 ubicaciones con conexiones ilimitadas y encriptación AES-256-GCM.
 - **Conexiones ilimitadas a dispositivos**.
 - Garantía de reembolso de 30 días.
-- Precio más bajo visto: 2.30 USD/mes en el plan de 2 años.
+- Precio promocional de largo plazo: suele mostrarse como equivalente en USD bajo, pero cambia por país, impuestos y duración. Confirma el total en el checkout.
 - Surfshark Nexus introducirá en 2022-2023 nuevas funciones como IP Rotator, que cambia tu IP automáticamente cada pocos minutos sin desconexión.
 
 
@@ -466,10 +470,10 @@ Visita nuestro enlace exclusivo [ExpressVPN Oferta](https://go.expressvpn.com/c/
 | ----------------------- | ----------- | ------------- |
 | 1 mes                   | $12.95      | $12.95        |
 | 6 meses                 | $59.95      | $9.99         |
-| 12 meses                | $99.95      | $8.32 ($6.67 con [oferta de 3 meses gratis](https://go.expressvpn.com/c/3828265/1509296/16063)) |
+| Oferta oficial actual | Ver checkout | El precio depende del país, moneda, impuestos, duración y plan elegido |
 
-### Paso 2: Aprovecha la oferta de 12 meses + 3 gratis
-Verás un enlace para "compra 12 meses y obtén 3 meses gratis", pagando por 12 meses pero usando 15 meses (nota: válido por 15 meses; para renovar, usa un nuevo email con nuestro enlace de descuento).  
+### Paso 2: Revisa la oferta oficial vigente
+La página oficial puede mostrar distintas ofertas por duración y plan. Antes de pagar, revisa el precio total, moneda, impuestos, renovación y garantía de reembolso.  
 <img src="./image/exp/1-2.PNG" alt="Oferta ExpressVPN" width="1000"/>
 
 ### Paso 3: Ingresa tu email y método de pago
@@ -763,8 +767,8 @@ ExpressVPN permite conexiones seguras y privadas, pero actualizaciones de red pu
 ### La actualización de red impide conectar con Surfshark, ¿cómo lo soluciono?
 Surfshark ofrece un modo inteligente que te conecta al servidor más rápido, ideal para acceder contenido internacional. Sin embargo, puede perder conexión. Asegúrate de usar la última versión de la app, verifica tu conexión a internet y, si falla, cambia de servidor. ¡Sigue estos pasos y aprovecha al máximo!
 
-### Pasaron 15 meses y quiero usar un código de descuento para ExpressVPN otra vez, ¿es posible?
-Para renovar tu suscripción a ExpressVPN, usa el enlace de descuento aquí. Crea una nueva cuenta con un email diferente para obtener 3 meses gratis. Luego, renueva tu cuenta antigua o compra una nueva desde el sitio. Nota que renovar la cuenta vieja no incluye descuento, así que paga el precio completo si eliges esa ruta.
+### Antes de renovar ExpressVPN, ¿debo revisar el precio otra vez?
+Para renovar ExpressVPN, revisa el precio de renovación dentro de tu cuenta y compáralo con la oferta pública actual. No asumas que una promoción antigua se mantiene para renovaciones.
 
 El mismo método aplica a otras VPNs. La mayoría ofrece descuentos para nuevas cuentas, así que borra las cookies de tu navegador o usa una VPN antes de registrarte para evitar ser detectado como usuario repetido. Revisa ofertas especiales en los sitios o busca en Google. Si renuevas vía terceros, pregunta por descuentos; a veces ahorran dinero.
 
@@ -1402,7 +1406,7 @@ Mayor encriptación mejora seguridad, pero puede ralentizar descargas. Encuentra
 ### 4. Activa la función de división de túnel
 Permite usar VPN solo para BitTorrent, dejando otras actividades (como streaming) en tu conexión normal, optimizando velocidad.
 
-Recomiendo **[ExpressVPN - 12 meses + 3 gratis](https://go.expressvpn.com/c/3828265/1509296/16063)**. Soporta P2P, incluye kill switch y división de túnel, con múltiples opciones de encriptación y una red global para conexiones rápidas y estables, ideal para BitTorrent.
+Recomiendo **[ExpressVPN - ver oferta oficial vigente](https://go.expressvpn.com/c/3828265/1509296/16063)**. Soporta P2P, incluye kill switch y división de túnel, con una red global para conexiones rápidas y estables; confirma moneda, impuestos y renovación en el checkout antes de pagar.
 
 <a name="Tendencias y predicciones futuras de VPN"></a>
 ## Tendencias y predicciones futuras de VPN
