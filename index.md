@@ -92,7 +92,12 @@ Antes del primer partido, instala la VPN, prueba tu app de streaming, cambia de 
 
 ## Nota sobre precios y moneda local
 
-Los precios de VPN cambian por país, impuestos, moneda, duración del plan y campaña. Si no se muestra tu moneda local, usa el precio en USD solo como referencia y confirma el total en el checkout. Para conversión, mira coste total, renovación, garantía de reembolso y número de dispositivos antes de pagar.
+Los precios de VPN cambian por país, impuestos, moneda, duración del plan y campaña. Para España/UE usamos euros y equivalente USD como referencia; en Latinoamérica el checkout puede mostrar moneda local o USD. Tipo de cambio usado como guía: 1 USD ≈ 0,87 EUR (19 de junio de 2026).
+
+- StrongVPN anual: aprox. 3,46 EUR/mes (3,97 USD/mes), o 42–47 EUR/año (48–54 USD/año), antes de impuestos.
+- Surfshark largo plazo: aprox. 1,73–2,01 EUR/mes (1,99–2,30 USD/mes), con impuestos, add-ons y renovación a revisar.
+- ExpressVPN es premium y cambia por plan/campaña. Si el checkout muestra 3,49 USD/mes, equivale a unos 3,04 EUR/mes; confirma precio final, impuestos y renovación.
+- FlowVPN: revisa trial y plan pagado en checkout; si aparece en USD, usa el equivalente EUR solo como orientación.
 
 ## Prueba diaria de velocidad VPN
 
@@ -330,7 +335,7 @@ La protección de privacidad de ExpressVPN usa encriptación industrial. El inte
 - Pagos en varias monedas, incluyendo Bitcoin.
 - Encriptación industrial.
 
-ExpressVPN ahora muestra ofertas por plan y campaña; el precio final puede variar por país, moneda local, impuestos y duración. Revisa el checkout oficial antes de pagar. La referencia útil es comparar coste total, renovación y garantía de reembolso, no solo el precio mensual anunciado.  
+ExpressVPN ahora muestra ofertas por plan y campaña; el precio final puede variar por país, moneda local, impuestos y duración. Si ves 3,49 USD/mes, equivale a unos 3,04 EUR/mes; si ves otro USD, conviértelo con el checkout abierto. Compara coste total, renovación y garantía de reembolso, no solo el precio mensual anunciado.  
 **Instala la app en Android o iOS para una prueba de 7 días, y con la garantía de 30 días, puedes probar sin riesgos.** Cancelar es fácil: no necesitas justificar tu decisión, usa los 30 días y, si no estás satisfecho, solicita tu reembolso sin preocupaciones.
 
 | Característica | ExpressVPN |
@@ -367,7 +372,7 @@ Desbloquea Netflix en cerca de 20 países (EE. UU., Francia, Japón, Italia, Aus
 - Más de 3,200 servidores en 65 ubicaciones con conexiones ilimitadas y encriptación AES-256-GCM.
 - **Conexiones ilimitadas a dispositivos**.
 - Garantía de reembolso de 30 días.
-- Precio promocional de largo plazo: suele mostrarse como equivalente en USD bajo, pero cambia por país, impuestos y duración. Confirma el total en el checkout.
+- Precio promocional de largo plazo: aprox. 1,73–2,01 EUR/mes (1,99–2,30 USD/mes) como referencia, pero cambia por país, impuestos y duración. Confirma el total en el checkout.
 - Surfshark Nexus introducirá en 2022-2023 nuevas funciones como IP Rotator, que cambia tu IP automáticamente cada pocos minutos sin desconexión.
 
 
@@ -430,7 +435,7 @@ Visita nuestro enlace exclusivo [StrongVPN](https://strongvpn.com/es/?tr_aid=60d
 Si al abrir no puedes comprar porque usas otra VPN, regístrate en [FlowVPN](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github) (consulta el tutorial de instalación más abajo). FlowVPN ofrece una prueba gratuita de dos días, perfecta para comprar StrongVPN.  
 <img src="./image/strong/s2-1.PNG" alt="Registro FlowVPN" width="1000"/>
 
-Tras registrarte en FlowVPN, selecciona Reino Unido. El plan de 1 año cuesta solo 43 USD (nota: válido por 12 meses; para renovar, usa un nuevo email con nuestro enlace de descuento).  
+Tras registrarte en FlowVPN, selecciona Reino Unido y vuelve a StrongVPN. El plan anual suele moverse alrededor de 42–47 EUR/año (48–54 USD/año), aprox. 3,46 EUR/mes (3,97 USD/mes), antes de impuestos; confirma el total y renovación en checkout.  
 <img src="./image/strong/s3-1.png" alt="Plan StrongVPN" width="1000"/>
 
 ### Paso 3: Elige tu método de pago
@@ -516,7 +521,7 @@ Visita nuestro enlace exclusivo [Surfshark - Conexiones ilimitadas](https://get.
 <img src="./image/surfshark/1-1.png" alt="Inicio Surfshark" width="1000"/>
 
 ### Paso 2: Aprovecha la oferta de dos años
-Verás un enlace para "compra dos años", pagando por 24 meses a menos de 3 USD al mes (nota: válido por 24 meses; para renovar, usa un nuevo email con nuestro enlace de descuento).  
+Verás un plan largo con precio mensual bajo. Como referencia, 1,99–2,30 USD/mes equivale a unos 1,73–2,01 EUR/mes; confirma total, impuestos, extras y renovación en checkout.  
 <img src="./image/surfshark/2-1.PNG" alt="Oferta Surfshark" width="1000"/>
 
 ### Paso 3: Ingresa tu email y método de pago
