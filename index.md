@@ -105,6 +105,9 @@ Una VPN no se juzga por una sola captura. La velocidad cambia por hora, pais, pr
 
 <img src="./image/speed_test/vpn_speed_test_combined.png" alt="Gráfico diario de velocidad VPN" width="1000"/>
 
+**Cómo convertir la gráfica de velocidad en una decisión de compra:** Si vas a comprar solo 1 año, StrongVPN es claramente más barato que ExpressVPN. En las pruebas de velocidad, StrongVPN no siempre es el más rápido, pero alcanza para navegación diaria, Wi-Fi público, viajes y streaming normal. Si quieres pagar más por marca, app premium y estabilidad, entonces ExpressVPN tiene sentido.  
+Si varias personas o muchos dispositivos van a usar la VPN, Surfshark encaja mejor, pero su precio bajo normalmente exige 2 años o un plan largo. FlowVPN es más adecuado para estudiantes, pruebas cortas o presupuestos muy ajustados porque ofrece 3 días de prueba; no es nuestra opción principal de largo plazo.
+
 | Servicio VPN | Protocolo rápido | OpenVPN | Lectura práctica |
 |---|---:|---:|---|
 | ExpressVPN | 600 Mbps | 400 Mbps | Muy buena opción si quieres pagar por estabilidad. |
