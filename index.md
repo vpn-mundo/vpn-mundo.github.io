@@ -140,17 +140,20 @@ En la mayoría de países hispanohablantes, usar VPN para privacidad y seguridad
 Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación y pruebas detalladas de cada proveedor.
 
 <!-- NEWS_START -->
-#### Noticias destacadas del 23 de junio de 2026
+#### 22 de junio de 2026: noticias de VPN, privacidad y ciberseguridad
+- **La verificación de edad vuelve a poner la privacidad VPN en primer plano**: TechRadar señala que los usuarios del Reino Unido, Australia y otros mercados deben revisar auditorías, políticas sin registros, cifrado, compatibilidad y riesgos de VPN gratuitas. [Fuente](https://www.techradar.com/vpn/vpn-privacy-security/how-to-choose-an-age-verification-vpn)
 
-- **Nueva vulnerabilidad de VPN en Android 16 confirmada sin solución de Google**: Una nueva vulnerabilidad que permite eludir las configuraciones de VPN en Android 16 ha sido confirmada, sin que aún exista una solución por parte de Google. [Fuente: Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlBXLVB3ekNlcHJ2czlEOG82UHkxcHB4X2VMdWJtaHRfYjQwUmIwQmhxUE5BdG5QODNDTnRYbkwxRjJYWEk0NG52ZERXUjg2Zms2WThLTTR6YVBYZ05yRXVEeTl6dGRza05uYlhtcUt6OHpicWZFanVLdzJ3QXZPNm9Yc2kxM2hfdEtqVVp0eTdMcm40cnZveVFkdWVMaUtmUnlvYzhJcF9BNWJ3aHN5WE1VeVVkUQ?oc=5)
+#### 22 de junio de 2026: restricciones de Telegram impulsan las VPN en India
+- **Las restricciones a Telegram provocaron el mayor aumento de descargas VPN de 2026 en India**: Economic Times informa que muchos usuarios recurrieron a VPN y apps alternativas para mantener el acceso a sus comunicaciones. [Fuente](https://m.economictimes.com/news/india/telegram-ban-in-india-triggered-biggest-vpn-download-surge-of-2026/articleshow/131909432.cms)
 
-- **Proveedor principal de VPN podría abandonar Canadá debido a ley de acceso legal**: Un importante proveedor de VPN ha anunciado la posibilidad de cesar operaciones en Canadá en respuesta a un proyecto de ley que obligaría a conceder acceso legal a datos de usuarios. [Fuente: Yahoo News Canada](https://news.google.com/rss/articles/CBMiekFVX3lxTE5TcklGQ0xYR0pVazdWTDZ5R0paN0VWMXF0c1A5dHZHckxCWjVNQTdoM0pUQW5FVzdZWnMxVVQ2bnJpOWZSSW5oTkFadjhvRV9jX2hDNV9ycWNNX1NxeVpWc21xaERlMzItTFdZWUI4dHd0aXJiUER3ZHNn?oc=5)
+#### 22 de junio de 2026: ofertas VPN para varios dispositivos
+- **Una oferta VPN de por vida para 15 dispositivos llamó la atención**: New York Post cubrió una promoción de FastestVPN PRO; conviene comparar precio con privacidad, reembolsos, velocidad y soporte a largo plazo. [Fuente](https://nypost.com/2026/06/22/shopping/lifetime-vpn-deal-protect-15-devices-with-fastestvpn/)
 
-- **Cómo ver el Campeonato Mundial de Hockey sobre Hielo 2026 gratis**: Se ofrecen detalles sobre cómo ver el Campeonato Mundial de Hockey sobre Hielo 2026 en vivo, incluyendo transmisiones gratuitas y el cronograma del torneo. [Fuente: Tom's Guide](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm9wYWtudlQxUW9GOE5TM2x6dkhBc0JmYXpvZ1lLNWN6M3hPVXd0ZkllYmpRTTA5dUhmSVJQbFRCc3IwR0RuSG5sLUp4eTE5anh2cGxEd3J6UXViNElURUtwRUxnQ2s4LUFSV3Rod2ctQ1RlN2xUbnlLdFZPNnFlZzNUbVEwVkxUN2dXMklrd3o4OW9uZjVEcWMwSlFkX0duVldVdGFLa2Y3dw?oc=5)
+#### Recordatorio de seguridad de la semana
+- **Una enorme filtración de credenciales recuerda el peligro de reutilizar contraseñas**: TechRadar reportó una gran base de datos expuesta con usuarios, contraseñas y URL de inicio de sesión. [Fuente](https://www.techradar.com/pro/security/the-credential-data-leak-is-dangerous-simply-because-of-its-enormous-size-experts-warn-colossal-breach-exposes-24-billion-records-including-personal-info)
 
-- **Programa de la Copa Mundial de la FIFA en EE.UU. 2026**: Información detallada sobre el programa de la Copa Mundial de la FIFA que se realizará en EE. UU. en 2026, incluyendo fechas, horarios de inicio y canales de transmisión. [Fuente: Goal.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxObDVJbUh6aXRFc1hac0NULTN4cTR1a2w4WTN3VU9tdkFBcGdaYVFxaFhaNXZUMVJWbDc1SGdMcTZzNzFQdnFLVTR1U0pHUVhYY0xXUGMybzNROVkyR2lHdnZDTGdrNHNtVG16T0RBZlpNSFVhbHhDdlRTaUFaa2ZHMHB3eGNEaFhVb1E?oc=5)
-
-- **Cómo ver el Team Canada en el IIHF 2026 de forma gratuita desde cualquier lugar**: Las oportunidades para ver a Team Canada participar en el Campeonato Mundial de Hockey sobre Hielo IIHF 2026 sin costo desde cualquier parte del mundo. [Fuente: Cybernews](https://news.google.com/rss/articles/CBMilwFBVV95cUxPanEyN2taWjZtZmJybXBiQ1FKWmFJd0lrMmRWT0RQYkhmREpMMjFjTjA1bDdjQUFKeFl1T2o2cFhTWlIwX3liVzFaald2TTc5VGVzRVpTVEtncFFjWmRQRVcxV2hmOWVoMkVsbERpdFpFY3BHODVuNUcya3FKQk5Fcjh4RUpaWHJUWTA3cmxmVHJDOHp4Vklv?oc=5)
+#### Recordatorio de privacidad de la semana
+- **Investigadores advierten sobre huellas internas de VPN en iOS**: TechRadar cubrió un riesgo donde la IP interna del túnel VPN puede ayudar al seguimiento entre apps. [Fuente](https://www.techradar.com/vpn/vpn-services/security-experts-reveal-proton-is-the-only-vpn-to-avoid-internal-tunnel-ip-fingerprinting-on-ios)
 <!-- NEWS_END -->
 
 > ## Navegación de contenido del artículo
