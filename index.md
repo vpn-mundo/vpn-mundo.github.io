@@ -103,7 +103,7 @@ Precios revisados el 2026-06-22. Para España/UE usamos 1 USD ≈ 0,87 EUR; en L
 
 Una VPN no se juzga por una sola captura. La velocidad cambia por hora, pais, protocolo, servidor y congestion. Por eso mantenemos una gráfica de pruebas repetidas y comparamos tendencias de 7, 14, 30 y 90 días.
 
-<img src="./image/speed_test/vpn_speed_test_combined.png" alt="Gráfico diario de velocidad VPN" width="1000"/>
+<img src="./image/speed_test/vpn_speed_test_combined.png?v=20260706-speed" alt="Gráfico diario de velocidad VPN" width="1000"/>
 
 **Cómo convertir la gráfica de velocidad en una decisión de compra:** Si vas a comprar solo 1 año, StrongVPN es claramente más barato que ExpressVPN. En las pruebas de velocidad, StrongVPN no siempre es el más rápido, pero alcanza para navegación diaria, Wi-Fi público, viajes y streaming normal. Si quieres pagar más por marca, app premium y estabilidad, entonces ExpressVPN tiene sentido.  
 Si varias personas o muchos dispositivos van a usar la VPN, Surfshark encaja mejor, pero su precio bajo normalmente exige 2 años o un plan largo. FlowVPN es más adecuado para estudiantes, pruebas cortas o presupuestos muy ajustados porque ofrece 3 días de prueba; no es nuestra opción principal de largo plazo.
@@ -314,7 +314,7 @@ Con esos criterios, las cuatro opciones principales de esta página cubren perfi
 <a name="expressvpn-12-meses-+-3-meses-gratis"></a>
 ### 2. [ExpressVPN - oferta oficial y precio en checkout](https://go.expressvpn.com/c/3828265/1509296/16063)
 ### ExpressVPN - oferta oficial y precio en checkout
-<img src="./image/speed_test/w_d.png" alt="Prueba de velocidad ExpressVPN" width="1000"/>
+<img src="./image/speed_test/w_d.png?v=20260706-speed" alt="Prueba de velocidad ExpressVPN" width="1000"/>
 
 
 
@@ -435,7 +435,7 @@ Una característica destacada de **StrongVPN** es su soporte para pagos internac
 
 ### Paso 1: Accede a nuestra oferta exclusiva
 Visita nuestro enlace exclusivo [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-body&data2=title) y haz clic en "Start Now" (ver imagen abajo).  
-<img src="./image/speed_test/strong_main.png" alt="Inicio StrongVPN" width="1000"/>
+<img src="./image/speed_test/strong_main.png?v=20260706-speed" alt="Inicio StrongVPN" width="1000"/>
 
 ### Paso 2: Soluciona problemas de conexión
 Si al abrir no puedes comprar porque usas otra VPN, regístrate en [FlowVPN](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github) (consulta el tutorial de instalación más abajo). FlowVPN ofrece una prueba gratuita de dos días, perfecta para comprar StrongVPN.  
@@ -1178,7 +1178,7 @@ _Nota: Si compras a través de estos enlaces, podemos ganar una comisión, pero 
 <a name="Pruebas de velocidad de VPN en regiones globales"></a>
 El gráfico inferior muestra los resultados de velocidad de cuatro VPNs en regiones globales. Las barras azules representan la velocidad de descarga, y las rojas la de subida, reflejando el rendimiento en Asia, Europa, Norteamérica, Sudamérica, África y Oceanía.  
 **Nota**: Los resultados varían por ubicación del servidor, condiciones de red y hora de prueba, así que úsalos como referencia, no como absolutos.  
-<img src="./image/speed_test/vpn_speed_test_region.png" alt="Pruebas de velocidad por región" width="1000"/>
+<img src="./image/speed_test/vpn_speed_test_region.png?v=20260706-speed" alt="Pruebas de velocidad por región" width="1000"/>
 
 ### Tasa de éxito de conexión de VPN en continentes
 <a name="tasa-de-exito-de-conexion-de-vpn-en-continentes"></a>
@@ -1240,7 +1240,7 @@ FlowVPN te conecta con seguridad y velocidad, ideal para streaming en Wi-Fi púb
 | Sudamérica      | 53                | 54                | 51                  |
 | África          | 49                | 45                | 48                  |
 
-<img src="./image/speed_test/vpn_connection_ratio.png" alt="Tasa de conexión VPN" width="1000"/>
+<img src="./image/speed_test/vpn_connection_ratio.png?v=20260706-speed" alt="Tasa de conexión VPN" width="1000"/>
 
 
 <a name="Tasa de éxito de VPN para conectar Netflix y Disney+"></a>
@@ -1250,13 +1250,13 @@ FlowVPN te conecta con seguridad y velocidad, ideal para streaming en Wi-Fi púb
 <a name="tasa-de-exito-de-vpn-para-conectar-netflix-en-continentes"></a>
 Este gráfico muestra la tasa de éxito de cuatro VPNs (ExpressVPN, FlowVPN, Surfshark, StrongVPN) para conectar a Netflix en los continentes. Cada subgráfico representa un servicio, con los continentes en el eje horizontal y la tasa de éxito en el vertical.  
 Destacan altas tasas en Asia, Europa y Oceanía, ideales para streaming. África y Sudamérica muestran menor rendimiento, posiblemente por infraestructura local. Elige tu VPN según tu ubicación y la tasa de éxito en tu región.  
-<img src="./image/speed_test/vpn_connection_netflix.png" alt="Tasa de conexión a Netflix" width="1000"/>
+<img src="./image/speed_test/vpn_connection_netflix.png?v=20260706-speed" alt="Tasa de conexión a Netflix" width="1000"/>
 
 ### Tasa de éxito de VPN para conectar Disney+ en continentes
 <a name="tasa-de-exito-de-vpn-para-conectar-disney-en-continentes"></a>
 Este gráfico muestra la tasa de éxito de cuatro VPNs (ExpressVPN, FlowVPN, Surfshark, StrongVPN) para conectar a Disney+ en los continentes. Cada subgráfico representa un servicio, con los continentes en el eje horizontal y la tasa de éxito en el vertical.  
 Alta estabilidad en Asia, Europa y Oceanía, perfecta para streaming. África y Sudamérica tienen menor rendimiento, influido por condiciones de red. Selecciona tu VPN según tu ubicación y necesidades.  
-<img src="./image/speed_test/vpn_connection_disney.png" alt="Tasa de conexión a Disney+" width="1000"/>
+<img src="./image/speed_test/vpn_connection_disney.png?v=20260706-speed" alt="Tasa de conexión a Disney+" width="1000"/>
 
 <a name="guia-para-ver-contenido-de-streaming-con-vpn"></a>
 ## Guía para ver contenido de streaming con VPN
@@ -1273,7 +1273,7 @@ Hablamos de VPNs y destacamos a **StrongVPN** y **ExpressVPN**, líderes en la i
 - **[StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-body&data2=title)**: Amado por su rendimiento sólido y diseño simple, ofrece 950+ servidores en 70+ regiones, perfecto para cualquier ubicación.
 - **[ExpressVPN](https://go.expressvpn.com/c/3828265/1509296/16063)**: Conocido como el "rey de la velocidad", cuenta con 3000+ servidores en 94 países, ideal para desbloquear cualquier Netflix.
 
-![StrongVPN](./image/speed_test/strong_main.png)  
+![StrongVPN](./image/speed_test/strong_main.png?v=20260706-speed)  
 ![ExpressVPN](./image/exp/1-1.PNG)
 
 ### Paso 2: Instala y configura tu VPN
