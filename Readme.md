@@ -36,6 +36,8 @@ No decidas solo por un ranking. Si quieres controlar el coste anual, abre primer
 
 Si funciona bien en tu red y dispositivo, probablemente no necesitas pagar de entrada el precio premium de ExpressVPN. Usa ExpressVPN si priorizas app y soporte premium; Surfshark si hay muchas pantallas en casa; FlowVPN si todavía quieres una prueba corta antes de un plan largo.
 
+<img src="./image/speed_test/vpn_streaming_buyer_dashboard.png?v=20260712-dashboard" alt="Panel de prueba VPN para streaming en 30 minutos" width="1000"/>
+
 ## Qué busca realmente un usuario de VPN en español
 
 ### 1. Streaming sin errores regiónales
