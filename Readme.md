@@ -88,38 +88,6 @@ Para una prueba de streaming con buen precio anual, empieza por [StrongVPN](http
 3. Revisa DNS/WebRTC y borra cookies si aparece un error regional.
 4. Apunta país, servidor, hora y dispositivo. Si falla tu caso principal, pide reembolso dentro del plazo.
 
-## Mundial 2026: VPN para viajes, streaming y sorteo de entradas
-
-![Estadio de fútbol de noche](./image/worldcup/world-cup-2026-stadium.png)
-
-*Illustration created for this site.*
-
-El Mundial 2026 se juega del 11 de junio al 19 de julio en Estados Unidos, Canadá y México. Para usuarios de España y Latinoamérica, el momento no es solo streaming: también hay viajes, Wi-Fi de hoteles, aeropuertos, bares, pagos, correos y cuentas de entradas.
-
-Para la mayoría de lectores, el primer clic práctico sigue siendo [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-home&data2=worldcup_intro): VPN de pago con precio más contenido para viajes, Wi-Fi público, uso diario y pruebas de streaming antes de los partidos.
-
-ExpressVPN comunica que es Official Supporter de la FIFA World Cup 2026 y que gestiona un sorteo de 25 pares de entradas, incluyendo partidos de eliminatorias y un par para la Final. El sorteo pertenece a ExpressVPN; revisa términos, disponibilidad y países elegibles en su página.
-
-| Caso de uso durante el Mundial | Primer clic recomendado | Motivo |
-|---|---|---|
-| VPN de pago con precio más contenido | [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-home&data2=worldcup_block) | Buena opción para viajes, Wi-Fi público y uso diario |
-| Campaña oficial y sorteo de entradas | [Oferta ExpressVPN Mundial 2026](https://go.expressvpn.com/c/3828265/1481161/16063) | Mejor encaje con el mensaje de Official Supporter |
-| Muchos dispositivos en casa | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=worldcup) | Útil para familia, móviles, portátiles y TV |
-
-Antes del primer partido, instala la VPN, prueba tu app de streaming, cambia de servidor si aparece error regional y verifica DNS/WebRTC.
-
-## España y Latinoamérica: Mundial, streaming y viajes
-
-Para búsquedas en español, la intención suele depender del país: España, México, Argentina, Colombia, Chile, Estados Unidos hispano o viajeros. No basta con decir "mejor VPN"; hay que probar la plataforma exacta, el dispositivo y la forma de pago.
-
-| Situación | Qué probar antes de quedarte con la VPN | Primera opción práctica |
-|---|---|---|
-| España desde el extranjero: RTVE Play, Atresplayer, Mitele, Movistar Plus+ o DAZN | Login, error regional, calidad 1080p/4K, subtítulos y cambio de servidor | [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-home&data2=es_streaming_table) por precio; [ExpressVPN](https://go.expressvpn.com/c/3828265/1509296/16063) por experiencia premium |
-| Latinoamérica y fútbol: ViX, ESPN, Fox Sports, Claro video, Star+ o servicios locales | Servidores cercanos, latencia, hora del partido, app móvil y Smart TV | ExpressVPN si priorizas estabilidad; StrongVPN si priorizas precio anual |
-| Mundial 2026 con familia o muchos dispositivos | móviles, portátil, tablet, Smart TV, Fire TV y uso simultáneo | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=es_worldcup_devices) |
-| No sabes si tu app bloqueará la VPN | probar 24-72 horas en tu red, país y dispositivo real | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github) para test corto, luego elegir una VPN principal |
-
-Regla simple: StrongVPN si quieres precio claro por 1 año; ExpressVPN si quieres app premium y aceptas pagar más; Surfshark si necesitas muchos dispositivos; FlowVPN si todavía estás probando compatibilidad.
 ## Nota sobre precios y moneda local
 
 Precios revisados el 2026-06-22. Para España/UE usamos 1 USD ≈ 0,87 EUR; en Latinoamérica, use el USD como base y la moneda local que muestre el pago.
