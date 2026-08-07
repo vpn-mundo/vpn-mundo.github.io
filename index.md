@@ -217,29 +217,27 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 > #### 9.2 [Impacto de las VPNs en la velocidad de red](#impacto-de-las-vpns-en-la-velocidad-de-red)
 > #### 9.3 [Diferencias entre software de acceso y VPNs](#diferencias-entre-software-de-acceso-y-vpns)
 > #### 9.4 [Cómo cambiar tu VPN regularmente para mayor seguridad](#como-cambiar-tu-vpn-regularmente-para-mayor-seguridad)
-> ### 10. [Introducción a la criptografía básica y principios de VPN](#introduccion-a-la-criptografia-basica-y-principios-de-vpn)
-> ### 11. [Qué puedes hacer con una VPN y precauciones](#que-puedes-hacer-con-una-vpn-y-precauciones)
-> ### 12. [Introducción a los protocolos comunes de VPN](#introduccion-a-los-protocolos-comunes-de-vpn)
+> ### 10. [Qué puedes hacer con una VPN y precauciones](#que-puedes-hacer-con-una-vpn-y-precauciones)
+> ### 11. [Introducción a los protocolos comunes de VPN](#introduccion-a-los-protocolos-comunes-de-vpn)
 > #### 12.1 [Diferencias y escenarios de uso entre VPN y Tor](#diferencias-y-escenarios-de-uso-entre-vpn-y-tor)
 > #### 12.2 [Diferencias entre VPN y servidores proxy](#diferencias-entre-vpn-y-servidores-proxy)
-> ### 13. [Análisis de servidores VPN - Consejos prácticos](#analisis-de-servidores-vpn-consejos-practicos)
+> ### 12. [Análisis de servidores VPN - Consejos prácticos](#analisis-de-servidores-vpn-consejos-practicos)
 > #### 13.1 [Cómo solucionar interrupciones de conexión VPN](#como-solucionar-interrupciones-de-conexion-vpn)
 > #### 13.2 [Cómo asegurar que tu VPN permanezca activa y funcional](#como-asegurar-que-tu-vpn-permaneca-activa-y-funcional)
-> ### 14. [Riesgos de las VPNs gratuitas - ¿Por qué no recomendarlas?](#riesgos-de-las-vpns-gratuitas-por-que-no-recomendarlas)
-> ### 15. [¿Por qué no recomendar construir tu propia VPN?](#por-que-no-recomendar-construir-tu-propia-vpn)
-> ### 16. [Características de VPN para juegos](#caracteristicas-de-vpn-para-juegos)
-> ### 17. [Guía para ver contenido de streaming con VPN](#guia-para-ver-contenido-de-streaming-con-vpn)
+> ### 13. [Riesgos de las VPNs gratuitas - ¿Por qué no recomendarlas?](#riesgos-de-las-vpns-gratuitas-por-que-no-recomendarlas)
+> ### 14. [¿Por qué no recomendar construir tu propia VPN?](#por-que-no-recomendar-construir-tu-propia-vpn)
+> ### 15. [Características de VPN para juegos](#caracteristicas-de-vpn-para-juegos)
+> ### 16. [Guía para ver contenido de streaming con VPN](#guia-para-ver-contenido-de-streaming-con-vpn)
 > #### 17.1 [Cómo detectan y bloquean Netflix y Hulu las conexiones VPN](#como-detectan-y-bloquean-netflix-y-hulu-las-conexiones-vpn)
-> ### 18. [Informe detallado de pruebas de velocidad de VPN](#informe-detallado-de-pruebas-de-velocidad-de-vpn)
+> ### 17. [Informe detallado de pruebas de velocidad de VPN](#informe-detallado-de-pruebas-de-velocidad-de-vpn)
 > #### 18.1 [Tasa de éxito de conexión de VPN en continentes](#tasa-de-exito-de-conexion-de-vpn-en-continentes)
 > #### 18.2 [Pruebas de velocidad de VPN en regiones globales](#pruebas-de-velocidad-de-vpn-en-regiones-globales)
 > #### 18.3 [Tasa de éxito de VPN para conectar Netflix en continentes](#tasa-de-exito-de-vpn-para-conectar-netflix-en-continentes)
 > #### 18.4 [Tasa de éxito de VPN para conectar Disney+ en continentes](#tasa-de-exito-de-vpn-para-conectar-disney-en-continentes)
-> ### 19. [Tutorial de instalación de VPN en Linux](#tutorial-de-instalacion-de-vpn-en-linux)
-> ### 20. [Aplicaciones y servicios que pueden bloquear VPNs](#aplicaciones-y-servicios-que-pueden-bloquear-vpns)
-> ### 21. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
-> ### 22. [VPN para Apple TV](#vpn-para-apple-tv)
-> ### 23. [Tendencias y predicciones futuras de VPN](#tendencias-y-predicciones-futuras-de-vpn)
+> ### 18. [Tutorial de instalación de VPN en Linux](#tutorial-de-instalacion-de-vpn-en-linux)
+> ### 19. [Aplicaciones y servicios que pueden bloquear VPNs](#aplicaciones-y-servicios-que-pueden-bloquear-vpns)
+> ### 20. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
+> ### 21. [VPN para Apple TV](#vpn-para-apple-tv)
 > #### 23.1 [Limitaciones de VPN y soluciones](#limitaciones-de-vpn-y-soluciones)
 **Última actualización: 5 de agosto de 2026**
 
@@ -255,6 +253,7 @@ En lugar de recomendar una sola marca para todo el mundo, conviene pensar por es
 La actualización de seguridad de Microsoft en junio de 2024 pudo haber causado problemas de conexión VPN para usuarios de Windows 11, 10 y Server 2008 o superior. Algunos usuarios en Reddit reportaron fallos tras la actualización, resueltos temporalmente reinstalando la app. Microsoft ha confirmado el inconveniente y planea una corrección futura.  
 <!-- [Ver contenido completo en el enlace original](https://tw.news.yahoo.com/microsofts-latest-windows-security-updates-might-break-your-vpn-001216447.html) -->
 
+<a name="resumen-de-funciones-recomendadas-de-vpns-globales"></a>
 ## Estado actual del mercado VPN
 El mercado VPN se mueve por ciclos: nuevas ofertas, cambios de precio, servidores saturados, bloqueos de streaming y mejoras de aplicaciones. Por eso evitamos depender de una sola señal. Una buena VPN debe combinar velocidad, soporte, variedad de servidores, apps claras y condiciones de reembolso entendibles.
 
@@ -264,11 +263,6 @@ En nuestras pruebas, **ExpressVPN** sigue siendo una opción fuerte para quien p
 
 Este sitio incluye guías, pruebas de velocidad y soluciones a problemas comunes. Usa la navegación para saltar directamente a la sección que necesitas.
 
-<a name="conocimientos-básicos-de-navegación-libre"></a>
-## Conceptos básicos de VPN para streaming, viajes y privacidad
-
-<a name="que-es-la-navegacion-libre"></a>
-### ¿Qué es la navegación libre?
 <a name="conocimientos-básicos-de-navegación-libre"></a>
 ## Conceptos básicos de VPN para streaming, viajes y privacidad
 
@@ -309,9 +303,6 @@ El Wi-Fi público es conveniente, pero no siempre confiable. En redes compartida
 <a name="recomendacion-de-strongvpn"></a>
 ### 1. [StrongVPN – La mejor relación calidad-precio](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-body&data2=title)
 ### Recomendación de StrongVPN
-<a name="resumen-de-funciones-recomendadas-de-vpns-globales"></a>
-## Resumen de funciones recomendadas de VPNs globales
-
 Antes de elegir una VPN, no mires solo el precio mensual. Para streaming, viajes y trabajo remoto, una buena VPN debe reunir estas condiciones:
 
 - Apps claras para Windows, macOS, iPhone, Android y, si es posible, TV o router.
@@ -357,9 +348,6 @@ Con esos criterios, las cuatro opciones principales de esta página cubren perfi
 <img src="./image/speed_test/w_d.png?v=20260706-speed" alt="Prueba de velocidad ExpressVPN" width="1000"/>
 
 
-
-<a name="Resumen de características recomendadas de VPNs globales"></a>
-## Resumen de características recomendadas de VPNs globales 
 
 <a name="Características de ExpressVPN"></a>
 ### ExpressVPN - Características
@@ -422,9 +410,6 @@ Desbloquea Netflix en cerca de 20 países (EE. UU., Francia, Japón, Italia, Aus
 - Surfshark Nexus introducirá en 2022-2023 nuevas funciones como IP Rotator, que cambia tu IP automáticamente cada pocos minutos sin desconexión.
 
 
-
-<a name="Resumen de características recomendadas de VPNs globales"></a>
-## Resumen de características recomendadas de VPNs globales
 
 <a name="flowvpn-prueba-gratuita-de-dos-dias"></a>
 ### 4. [FlowVPN - Prueba de 3 días](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github)
@@ -1372,63 +1357,7 @@ Una VPN (Red Privada Virtual) mejora seguridad, privacidad y supera restriccione
 Elige un proveedor confiable y mantén tu sistema actualizado, independientemente de la plataforma.
 
 
-<a name="introduccion-a-la-criptografia-basica-y-principios-de-vpn"></a>
-## Introducción a la criptografía básica y principios de VPN
-
-### Fundamentos de criptografía
-
-La criptografía es la práctica de comunicación segura en presencia de terceros, usada desde la antigüedad y estudiada intensamente desde el siglo XX. Se aplica en emails, compartición de archivos y comunicaciones seguras, siendo una rama matemática clave para la seguridad digital. Es esencial para quienes se interesan en protegerse en la era digital.
-
-#### Introducción a RSA
-RSA es un algoritmo de encriptación de clave pública, estándar para datos en internet. Usa dos números primos grandes para generar claves únicas, permitiendo encriptar y desencriptar sin comprometer seguridad. Como algoritmo asimétrico, su clave pública puede compartirse, siendo ampliamente considerado seguro.
-
-#### Encriptación de curva elíptica (ECC)
-La criptografía de curva elíptica (ECC) es un sistema de clave pública basado en propiedades de curvas elípticas en campos finitos, usado en TLS/SSL para proteger comunicaciones entre navegadores y servidores. También aplica a emails, mensajería y VoIP, siendo más segura que RSA tradicional. Se basa en ecuaciones como y² = x³ + ax + b, donde los puntos tienen coordenadas racionales e irracionales, dificultando ataques por su complejidad.
-
-### Intersección de computación paralela y criptografía
-
-En seguridad de datos y gestión de claves, **computación paralela** y **criptografía** se cruzan con aplicaciones fascinantes.
-
-#### Aplicaciones de computación paralela en criptografía
-La criptografía protege información mediante complejidad computacional, y la **computación paralela** potencia tareas como generación de claves, intercambios, encriptación/desencriptación y hash. Técnicas como *cracking distribuido* dividen la búsqueda de contraseñas entre múltiples dispositivos, acelerando el proceso.
-
-#### Aplicaciones de criptografía en computación paralela
-La **criptografía** asegura datos en entornos paralelos, donde se comparten entre procesadores. Garantiza confidencialidad, integridad y autenticación, previniendo accesos no autorizados.
-
-#### Combinación de ambas
-Esta sinergia mejora el procesamiento rápido y seguro de datos, protegiendo privacidad y evitando fugas. Sin embargo, plantea retos como diseñar sistemas que equilibren rendimiento y seguridad, un campo con gran potencial.
-
-### Intersección de computación cuántica y criptografía
-
-**Computación cuántica** y **criptografía** abren nuevas posibilidades, generando un debate global.
-
-#### Desafíos de la computación cuántica para la criptografía
-Los ordenadores cuánticos, basados en mecánica cuántica, procesan datos masivos en paralelo, amenazando algoritmos de clave pública como RSA. El algoritmo de Shor puede factorizar números grandes en tiempo polinómico, poniendo en riesgo sistemas basados en esa complejidad.
-
-#### Criptografía cuántica: Una nueva era
-La **criptografía cuántica** usa principios cuánticos para innovar. La **Distribución de Claves Cuánticas (QKD)**, con entrelazamiento y principio de incertidumbre, crea claves seguras detectando intentos de interceptación, ofreciendo una seguridad teóricamente inquebrantable.
-
-#### Conclusión
-Esta intersección trae retos y oportunidades. Con el avance de la computación cuántica, desarrollar sistemas **cuánticamente seguros** será crucial.
-
-### Fusión de inteligencia artificial y criptografía: Protegiendo el futuro
-El rápido avance tecnológico destaca a la **inteligencia artificial (IA)** y la **criptografía**. Aunque parecen desconectadas, se entrelazan en el mundo digital.
-
-#### Auge de la inteligencia artificial
-La IA, con raíces antiguas, ha despegado gracias a big data, mayor potencia computacional y algoritmos mejorados, impactando salud, finanzas y seguridad.
-
-#### Importancia de la criptografía
-La criptografía protege compras, banca en línea y mensajería, asegurando datos contra ataques.
-
-#### Intersección de IA y criptografía
-- **Fortalecimiento de seguridad**: La IA detecta amenazas mediante aprendizaje automático, superando defensas tradicionales al predecir ataques.
-- **Cracking de contraseñas**: Éticamente debatido, la IA puede analizar patrones y vulnerabilidades, desafiando la criptografía.
-- **Optimización de algoritmos**: La IA, como con redes generativas adversarias (GANs), crea encriptaciones resistentes a ataques, incluso de IA.
-
-**Conclusión**: Esta fusión transforma el mundo digital, pero exige vigilancia contra riesgos como cracking o ataques avanzados, buscando equilibrio entre innovación y seguridad.
-
-
-<a name="aplicaciones-y-servicios-que-pueden-bloquear-vpns"></a>
+<a name="apps-and-services-that-may-block-vpns"></a>
 ## Aplicaciones y servicios que pueden bloquear VPNs
 
 En algunos casos, apps y servicios restringen o bloquean VPNs por razones como protección de derechos de autor, abuso de red, fraude o calidad de servicio. Aquí algunos ejemplos:
@@ -1460,28 +1389,6 @@ Permite usar VPN solo para BitTorrent, dejando otras actividades (como streaming
 Recomiendo **[ExpressVPN - ver oferta oficial vigente](https://go.expressvpn.com/c/3828265/1509296/16063)**. Soporta P2P, incluye kill switch y división de túnel, con una red global para conexiones rápidas y estables; confirma moneda, impuestos y renovación en el checkout antes de pagar.
 
 <a name="Tendencias y predicciones futuras de VPN"></a>
-## Tendencias y predicciones futuras de VPN
-
-El uso de VPNs ha crecido enormemente y esta tendencia seguirá. Aquí te contamos qué esperar:
-
-### 1. Mayor seguridad y privacidad
-Con el aumento de la preocupación por la privacidad, las VPNs competirán con encriptaciones más fuertes, políticas de cero logs y funciones anti-fugas.
-
-### 2. Mejor rendimiento y estabilidad
-Avances como el protocolo WireGuard prometen mayor velocidad y eficiencia, acercando la experiencia VPN a una conexión normal.
-
-### 3. Selección inteligente de conexiones
-La IA y el aprendizaje automático podrían elegir automáticamente el mejor servidor según carga, distancia y tus necesidades (streaming, P2P).
-
-### 4. Soporte para más dispositivos y plataformas
-Futuras VPNs abarcarán smart TVs, consolas y dispositivos IoT, ampliando su alcance.
-
-### 5. Cambios en políticas centradas en privacidad
-Con más enfoque en la privacidad, nuevas leyes podrían impulsar el uso de VPNs para proteger datos.
-
-**Resumen**: El futuro de las VPNs será más seguro, eficiente, inteligente y centrado en el usuario.
-
-<a name="Limitaciones de VPN y soluciones"></a>
 ## Limitaciones de VPN y soluciones
 
 Aunque las VPNs protegen tu actividad y superan restricciones, tienen limitaciones. Aquí las comunes y cómo resolverlas:
