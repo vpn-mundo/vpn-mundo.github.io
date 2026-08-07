@@ -27,6 +27,17 @@ Por eso separamos tres decisiones: **coste total en tu moneda**, **plataforma co
 
 **Nuestra regla:** no pagues por una VPN “ganadora” para otro país. Elige la opción más barata que supere la prueba de tu plataforma, tu dispositivo y tu moneda sin obligarte a un compromiso innecesario.
 
+## España y Latinoamérica: dos rutas de compra
+
+| Mercado | Prueba local prioritaria | Riesgo que suele ignorar un ranking global |
+|---|---|---|
+| España | RTVE Play, Atresplayer, Mitele, Movistar Plus+, DAZN | Confundir el precio mensual promocional con el coste total y la renovación en EUR |
+| México | Netflix, Disney+, Prime Video, servicios y banca local durante viajes | Pagar en USD sin revisar conversión, impuestos o rechazo de tarjeta |
+| Argentina, Colombia y Chile | Plataforma local concreta, móvil y Wi-Fi doméstico | Que un plan “barato” en dólares sea caro en moneda local o exija demasiado tiempo |
+| Viajeros entre regiones | Cuenta, pago, app y reproducción desde la red real | Suponer que cambiar la IP resuelve también cuenta, método de pago y dispositivo |
+
+La comparación mantiene este orden: StrongVPN como primera prueba de valor anual, ExpressVPN como opción premium, Surfshark cuando muchos dispositivos justifican un plan largo y FlowVPN para una prueba corta.
+
 ## Recomendación rápida según tu caso
 
 | Caso de uso | Mejor opción | Por qué tiene sentido |
@@ -186,7 +197,7 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 <!-- NEWS_END -->
 
 > ## Navegación de contenido del artículo
-> ### 1. [Conceptos b?sicos de VPN](#conocimientos-b?sicos-de-navegaci?n-libre)
+> ### 1. [Conceptos básicos de VPN](#conocimientos-básicos-de-navegación-libre)
 > ### 2. [Resumen de funciones recomendadas de VPNs globales](#resumen-de-funciones-recomendadas-de-vpns-globales)
 > #### 2.1 [Recomendación de StrongVPN](#recomendacion-de-strongvpn)
 > #### 2.2 [ExpressVPN - oferta oficial y precio en checkout](#expressvpn-12-meses-+-3-meses-gratis)
@@ -254,7 +265,7 @@ En nuestras pruebas, **ExpressVPN** sigue siendo una opción fuerte para quien p
 Este sitio incluye guías, pruebas de velocidad y soluciones a problemas comunes. Usa la navegación para saltar directamente a la sección que necesitas.
 
 <a name="conocimientos-básicos-de-navegación-libre"></a>
-## Conceptos b?sicos de VPN para streaming, viajes y privacidad
+## Conceptos básicos de VPN para streaming, viajes y privacidad
 
 <a name="que-es-la-navegacion-libre"></a>
 ### ¿Qué es la navegación libre?
@@ -394,7 +405,7 @@ ExpressVPN ahora muestra ofertas por plan y campaña; el precio final puede vari
 **Surfshark** es una VPN sofisticada y potente que compite con los mejores proveedores a un precio irresistible. Aunque su interruptor de apagado tiene pequeños fallos y OpenVPN no es el más rápido, por este costo no encontrarás mejor opción. Fundada en 2018, esta nueva estrella ha ganado popularidad, rivalizando con los gigantes y posicionándose como una de las mejores VPNs del mercado.  
 Con más de 3,200 servidores en 65 países y 160 ubicaciones, funciona casi en cualquier lugar. Ofrece apps para Windows, Mac, iOS, Android, Linux, y extensiones para Chrome, Firefox y Edge, además de un sistema de DNS inteligente para consolas y smart TVs.
 
-Usa encriptación AES-256-GCM, soporta WireGuard, OpenVPN e IKEv2, con una política de cero logs y un interruptor de apagado que protege tu dispositivo si la conexión falla. Basada en las Islas Vírgenes Británicas como ExpressVPN, no requiere guardar logs de usuario. Solo almacena tu email y datos de facturación.
+Usa encriptación AES-256-GCM, soporta WireGuard, OpenVPN e IKEv2, con una política de cero logs y un interruptor de apagado que protege tu dispositivo si la conexión falla. Surfshark está basada en los Países Bajos. Su Trust Center publica evaluaciones externas de la política sin registros; revisa la política actual para conocer los datos de cuenta, facturación y conexión temporal.
 
 Desbloquea Netflix en cerca de 20 países (EE. UU., Francia, Japón, Italia, Australia, etc.), y también soporta Amazon Prime y Disney+. Perfecto para streaming y gaming.
 
@@ -434,7 +445,7 @@ Desbloquea Netflix en cerca de 20 países (EE. UU., Francia, Japón, Italia, Aus
 - Uso simultáneo en hasta 4 dispositivos.
 - Descuentos especiales para estudiantes y personal educativo.
 
-### Análisis y comparación de políticas de privacidad de proveedores de VPN
+### Resumen de privacidad antes de comprar
 <a name="analisis-y-comparacion-de-politicas-de-privacidad-de-proveedores-de-vpn"></a>
 Al elegir un proveedor de VPN, la política de privacidad es un factor clave que afecta la seguridad de tus datos. Aquí comparamos las políticas de ExpressVPN, StrongVPN y Surfshark.
 
@@ -445,11 +456,11 @@ ExpressVPN, con sede en las Islas Vírgenes Británicas, se compromete fuertemen
 StrongVPN, basado en EE. UU., también promete no registrar tus actividades. Sin embargo, las leyes de retención de datos en EE. UU. podrían influir, aunque asegura no compartir datos con terceros salvo por requerimientos legales.
 
 #### Surfshark
-Surfshark, también en las Islas Vírgenes Británicas como ExpressVPN, promete no registrar actividades. Su política de privacidad es clara, detallando qué datos recopila (solo email y facturación) y su uso, sin compartir con terceros salvo por mandato legal.
+Surfshark está basada en los Países Bajos. Su Trust Center indica que Deloitte evaluó sus compromisos sin registros en 2023 y 2025. Esto aporta evidencia independiente, pero no sustituye la lectura de la política vigente.
 
 | Característica | ExpressVPN | StrongVPN | Surfshark |
 | -------------- | ---------- | --------- | --------- |
-| Ubicación      | Islas Vírgenes Británicas | EE. UU. | Islas Vírgenes Británicas |
+| Ubicación      | Islas Vírgenes Británicas | EE. UU. | Países Bajos |
 | Registra actividades | No | No | No |
 | Comparte datos con terceros | No, salvo legalmente | No, salvo legalmente | No, salvo legalmente |
 
@@ -516,7 +527,7 @@ Visita nuestro enlace exclusivo [ExpressVPN Oferta](https://go.expressvpn.com/c/
 La página oficial puede mostrar distintas ofertas por duración y plan. Antes de pagar, revisa el precio total, moneda, impuestos, renovación y garantía de reembolso.  
 <img src="./image/exp/1-2.PNG" alt="Oferta ExpressVPN" width="1000"/>
 
-### Paso 3: Ingresa tu email y método de pago
+### Paso 3: Completa el pago de ExpressVPN
 Introduce un email correcto y selecciona tu método de pago (tarjetas de banco, Visa, MasterCard, Bitcoin, PayPal). ¡Asegúrate de no equivocarte o no recibirás el código de verificación!  
 <img src="./image/exp/1-3.PNG" alt="Pago ExpressVPN" width="1000"/>
 
@@ -559,7 +570,7 @@ Visita nuestro enlace exclusivo [Surfshark - Conexiones ilimitadas](https://get.
 Verás un plan largo con precio mensual bajo. Como referencia, 1,99–2,30 USD/mes equivale a unos 1,73–2,01 EUR/mes; confirma total, impuestos, extras y renovación en checkout.  
 <img src="./image/surfshark/2-1.PNG" alt="Oferta Surfshark" width="1000"/>
 
-### Paso 3: Ingresa tu email y método de pago
+### Paso 3: Completa el pago de Surfshark
 Introduce un email correcto y selecciona tu método de pago (tarjetas de banco como Visa o MasterCard, incluidas extranjeras, Bitcoin, PayPal). ¡Asegúrate de no equivocarte o no recibirás el código de verificación!  
 <img src="./image/surfshark/3-1.PNG" alt="Pago Surfshark" width="1000"/>
 
@@ -608,7 +619,7 @@ Puedes descargar la app con soporte para tarjetas de banco (Visa, MasterCard, in
 - Uso simultáneo en hasta 4 dispositivos.
 - Descuentos especiales para estudiantes y personal educativo.
 
-### Análisis y comparación de políticas de privacidad de proveedores de VPN
+### Evidencia de privacidad y limitaciones
 <a name="Análisis y comparación de políticas de privacidad de proveedores de VPN"></a>
 Al elegir un proveedor de VPN, la política de privacidad es crucial para la seguridad de tus datos. Aquí comparamos ExpressVPN, StrongVPN y Surfshark.
 
@@ -619,11 +630,11 @@ Con sede en las Islas Vírgenes Británicas, ExpressVPN se compromete a la priva
 Basado en EE. UU., StrongVPN promete no registrar actividades. Sin embargo, las leyes locales podrían influir, aunque asegura no compartir datos con terceros salvo por requerimientos legales.
 
 #### Surfshark
-También en las Islas Vírgenes Británicas, Surfshark promete no registrar actividades. Su política detalla qué datos recopila (solo email y facturación) y su uso, sin compartir con terceros salvo por mandato legal.
+Surfshark está basada en los Países Bajos. Su Trust Center publica informes de aseguramiento de Deloitte de 2023 y 2025; revisa la política vigente para los detalles de cuenta, facturación y conexión.
 
 | Característica | ExpressVPN | StrongVPN | Surfshark |
 | -------------- | ---------- | --------- | --------- |
-| Ubicación      | Islas Vírgenes Británicas | EE. UU. | Islas Vírgenes Británicas |
+| Ubicación      | Islas Vírgenes Británicas | EE. UU. | Países Bajos |
 | Registra actividades | No | No | No |
 | Comparte datos con terceros | No, salvo legalmente | No, salvo legalmente | No, salvo legalmente |
 
