@@ -5,7 +5,7 @@ description: "VPN Mundo compara StrongVPN, ExpressVPN, Surfshark y FlowVPN para 
 ---
 
 # Mejores VPN 2026 para streaming, viajes y Wi-Fi público
-**Última actualización: 8 de agosto de 2026 - VPN Mundo**
+**Última actualización: 15 de agosto de 2026 - VPN Mundo**
 
 VPN Mundo es una comparativa práctica para usuarios de España, Latinoamérica y viajeros que necesitan una VPN estable para streaming, privacidad y uso diario. No intentamos vender una VPN como mágica: medimos velocidad, revisamos precio, explicamos para que caso conviene cada servicio y mantenemos una gráfica diaria de rendimiento.
 
@@ -202,20 +202,12 @@ En la mayoría de países hispanohablantes, usar VPN para privacidad y seguridad
 Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación y pruebas detalladas de cada proveedor.
 
 <!-- NEWS_START -->
-#### 8 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
-- **La verificación de edad vuelve a poner la privacidad VPN en primer plano**: TechRadar señala que los usuarios del Reino Unido, Australia y otros mercados deben revisar auditorías, políticas sin registros, cifrado, compatibilidad y riesgos de VPN gratuitas. [Fuente](https://www.techradar.com/vpn/vpn-privacy-security/how-to-choose-an-age-verification-vpn)
-
-#### 8 de agosto de 2026: restricciones de Telegram impulsan las VPN en India
-- **Las restricciones a Telegram provocaron el mayor aumento de descargas VPN de 2026 en India**: Economic Times informa que muchos usuarios recurrieron a VPN y apps alternativas para mantener el acceso a sus comunicaciones. [Fuente](https://m.economictimes.com/news/india/telegram-ban-in-india-triggered-biggest-vpn-download-surge-of-2026/articleshow/131909432.cms)
-
-#### 8 de agosto de 2026: ofertas VPN para varios dispositivos
-- **Una oferta VPN de por vida para 15 dispositivos llamó la atención**: New York Post cubrió una promoción de FastestVPN PRO; conviene comparar precio con privacidad, reembolsos, velocidad y soporte a largo plazo. [Fuente](https://nypost.com/2026/06/22/shopping/lifetime-vpn-deal-protect-15-devices-with-fastestvpn/)
-
-#### Recordatorio de seguridad de la semana
-- **Una enorme filtración de credenciales recuerda el peligro de reutilizar contraseñas**: TechRadar reportó una gran base de datos expuesta con usuarios, contraseñas y URL de inicio de sesión. [Fuente](https://www.techradar.com/pro/security/the-credential-data-leak-is-dangerous-simply-because-of-its-enormous-size-experts-warn-colossal-breach-exposes-24-billion-records-including-personal-info)
-
-#### Recordatorio de privacidad de la semana
-- **Investigadores advierten sobre huellas internas de VPN en iOS**: TechRadar cubrió un riesgo donde la IP interna del túnel VPN puede ayudar al seguimiento entre apps. [Fuente](https://www.techradar.com/vpn/vpn-services/security-experts-reveal-proton-is-the-only-vpn-to-avoid-internal-tunnel-ip-fingerprinting-on-ios)
+#### 15 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
+- **NCSC alerta sobre ataques de correo sin clic**: una campaña contra servidores Zimbra sin actualizar puede comprometer mensajes con solo visualizar un correo malicioso; las organizaciones deben parchear y reforzar la supervisión. [Aviso oficial](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign)
+- **Firewalls y puertas de enlace VPN de Fortinet siguen bajo ataque**: NCSC recomienda revisar cuentas y registros, actualizar los equipos, eliminar contraseñas reutilizadas y activar MFA en accesos VPN y administrativos. [Aviso oficial](https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways)
+- **Mozilla corrige fallos graves en Firefox y Firefox ESR**: el boletín incluye problemas de aislamiento de sitios, política de mismo origen, escape del sandbox y seguridad de memoria; conviene comprobar que el navegador esté actualizado. [Aviso oficial](https://www.mozilla.org/en-US/security/advisories/mfsa2026-69/)
+- **Cloudflare y los principales navegadores impulsan una verificación más privada**: PACT busca distinguir tráfico legítimo, agentes de IA y abuso automatizado sin depender de seguimiento invasivo. [Anuncio oficial](https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/)
+- **Android 17 refuerza la protección contra estafas, robos y permisos excesivos**: Google presentó ubicación precisa temporal, selector de contactos y nuevas defensas del dispositivo; una VPN debe complementarse con actualizaciones y MFA. [Anuncio oficial](https://blog.google/security/whats-new-in-android-security-privacy-2026/)
 <!-- NEWS_END -->
 
 > ## Navegación de contenido del artículo
@@ -261,7 +253,7 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 > ### 20. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
 > ### 21. [VPN para Apple TV](#vpn-para-apple-tv)
 > #### 23.1 [Limitaciones de VPN y soluciones](#limitaciones-de-vpn-y-soluciones)
-**Última actualización: 8 de agosto de 2026**
+**Última actualización: 15 de agosto de 2026**
 
 >**Esta guía se centra en el uso real de una VPN para streaming, viajes, trabajo remoto y privacidad. Muchos comparadores repiten listas de marcas sin explicar si la VPN sirve para ver una plataforma concreta, proteger una conexión en Wi-Fi público o mantener buena velocidad durante una videollamada. Aquí reunimos pruebas de velocidad, tutoriales de instalación y criterios prácticos para elegir sin perder dinero.**
 
