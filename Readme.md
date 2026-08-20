@@ -5,7 +5,7 @@ description: "VPN Mundo compara StrongVPN, ExpressVPN, Surfshark y FlowVPN para 
 ---
 
 # Mejores VPN 2026 para streaming, viajes y Wi-Fi público
-**Última actualización: 15 de agosto de 2026 - VPN Mundo**
+**Última actualización: 20 de agosto de 2026 - VPN Mundo**
 
 VPN Mundo es una comparativa práctica para usuarios de España, Latinoamérica y viajeros que necesitan una VPN estable para streaming, privacidad y uso diario. No intentamos vender una VPN como mágica: medimos velocidad, revisamos precio, explicamos para que caso conviene cada servicio y mantenemos una gráfica diaria de rendimiento.
 
@@ -142,16 +142,6 @@ Para una prueba de streaming con buen precio anual, empieza por [StrongVPN](http
 3. Revisa DNS/WebRTC y borra cookies si aparece un error regional.
 4. Apunta país, servidor, hora y dispositivo. Si falla tu caso principal, pide reembolso dentro del plazo.
 
-## Después del Mundial: viajes, Wi-Fi público y streaming deportivo
-
-![Estadio de fútbol de noche](./image/worldcup/world-cup-2026-stadium.png)
-
-*Illustration created for this site.*
-
-El Mundial ya terminó, pero la necesidad práctica sigue: viajes, Wi-Fi de hoteles y aeropuertos, streaming deportivo, repeticiones, pagos, correo y cuentas personales en redes desconocidas. No hace falta mantener una promoción de entradas vencida; sí conviene recordar que una VPN debe probarse en el dispositivo, país y app reales.
-
-Para la mayoría de lectores, el primer clic práctico sigue siendo [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-home&data2=worldcup_block): VPN de pago con precio más contenido para viajes, Wi-Fi público, uso diario y pruebas de streaming. ExpressVPN tiene sentido si quieres la experiencia premium; Surfshark si hay muchos dispositivos; FlowVPN si solo quieres una prueba corta.
-
 ## Nota sobre precios y moneda local
 
 Precios revisados el 2026-06-22. Para España/UE usamos 1 USD ≈ 0,87 EUR; en Latinoamérica, use el USD como base y la moneda local que muestre el pago.
@@ -202,7 +192,7 @@ En la mayoría de países hispanohablantes, usar VPN para privacidad y seguridad
 Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación y pruebas detalladas de cada proveedor.
 
 <!-- NEWS_START -->
-#### 15 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
+#### 20 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
 - **NCSC alerta sobre ataques de correo sin clic**: una campaña contra servidores Zimbra sin actualizar puede comprometer mensajes con solo visualizar un correo malicioso; las organizaciones deben parchear y reforzar la supervisión. [Aviso oficial](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign)
 - **Firewalls y puertas de enlace VPN de Fortinet siguen bajo ataque**: NCSC recomienda revisar cuentas y registros, actualizar los equipos, eliminar contraseñas reutilizadas y activar MFA en accesos VPN y administrativos. [Aviso oficial](https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways)
 - **Mozilla corrige fallos graves en Firefox y Firefox ESR**: el boletín incluye problemas de aislamiento de sitios, política de mismo origen, escape del sandbox y seguridad de memoria; conviene comprobar que el navegador esté actualizado. [Aviso oficial](https://www.mozilla.org/en-US/security/advisories/mfsa2026-69/)
@@ -253,7 +243,7 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 > ### 20. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
 > ### 21. [VPN para Apple TV](#vpn-para-apple-tv)
 > #### 23.1 [Limitaciones de VPN y soluciones](#limitaciones-de-vpn-y-soluciones)
-**Última actualización: 15 de agosto de 2026**
+**Última actualización: 20 de agosto de 2026**
 
 >**Esta guía se centra en el uso real de una VPN para streaming, viajes, trabajo remoto y privacidad. Muchos comparadores repiten listas de marcas sin explicar si la VPN sirve para ver una plataforma concreta, proteger una conexión en Wi-Fi público o mantener buena velocidad durante una videollamada. Aquí reunimos pruebas de velocidad, tutoriales de instalación y criterios prácticos para elegir sin perder dinero.**
 
