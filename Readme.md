@@ -27,6 +27,18 @@ Por eso separamos tres decisiones: **coste total en tu moneda**, **plataforma co
 
 **Nuestra regla:** no pagues por una VPN “ganadora” para otro país. Elige la opción más barata que supere la prueba de tu plataforma, tu dispositivo y tu moneda sin obligarte a un compromiso innecesario.
 
+## Tres niveles de prueba, no una promesa para todo el mundo
+
+Una velocidad medida, una condición comercial y el acceso a una plataforma no son la misma clase de evidencia. Separarlas evita que una cifra bonita se convierta en una promesa falsa para todos los países de habla hispana.
+
+| Nivel | Qué comprobamos | Cómo tomar la decisión |
+|---|---|---|
+| Medido en este proyecto | Gráfica fechada de velocidad y comparación repetida entre los cuatro proveedores | Sirve para ver rendimiento relativo reciente, no para prometer el mismo resultado en tu ISP. |
+| Confirmado en el checkout | Cobro total, duración, impuestos, renovación, reembolso y moneda | España debe revisar el total en EUR; en Latinoamérica hay que sumar conversión, tarjeta e impuestos locales. |
+| Probado por el comprador | RTVE Play, DAZN, Movistar Plus+, Netflix, Disney+, Android TV, hotel o red móvil | Prueba la plataforma y el dispositivo reales durante 15-20 minutos antes de conservar el plan. |
+
+Nuestro valor diferencial no es declarar un ganador universal. Es mostrar dónde termina el dato público y dónde empieza la prueba que cambia entre España, México, Argentina, Colombia, Chile y el resto de la región.
+
 ## España y Latinoamérica: dos rutas de compra
 
 | Mercado | Prueba local prioritaria | Riesgo que suele ignorar un ranking global |
