@@ -253,6 +253,15 @@ Una VPN no es una herramienta milagrosa. Su valor depende del caso de uso: ver c
 
 En lugar de recomendar una sola marca para todo el mundo, conviene pensar por escenario: si quieres estabilidad premium, mira ExpressVPN; si priorizas precio anual, revisa StrongVPN; si tienes muchas pantallas en casa, Surfshark tiene sentido; si prefieres probar antes de comprometerte, FlowVPN puede ser útil.
 
+## Guías locales: España y Latinoamérica no son el mismo mercado
+
+Una sola tabla no puede responder igual a una persona que quiere RTVE Play desde Francia y a otra que prueba Netflix España desde México. Por eso separamos las dos rutas:
+
+- **España:** [VPN para streaming en España: RTVE Play, Movistar Plus+, Atresplayer, Mitele y DAZN](./vpn-streaming-espana/)
+- **Latinoamérica:** [VPN para streaming en LATAM: rutas, moneda, Android TV y diagnóstico por país](./vpn-streaming-latam/)
+
+Las dos guías conservan el mismo orden de proveedores y usan la gráfica diaria del sitio principal. Lo que cambia es la plataforma, la ruta de servidor y el tipo de error que se debe comprobar.
+
 ## Noticias recientes de VPNs
 La actualización de seguridad de Microsoft en junio de 2024 pudo haber causado problemas de conexión VPN para usuarios de Windows 11, 10 y Server 2008 o superior. Algunos usuarios en Reddit reportaron fallos tras la actualización, resueltos temporalmente reinstalando la app. Microsoft ha confirmado el inconveniente y planea una corrección futura.  
 <!-- [Ver contenido completo en el enlace original](https://tw.news.yahoo.com/microsofts-latest-windows-security-updates-might-break-your-vpn-001216447.html) -->
