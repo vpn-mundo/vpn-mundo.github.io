@@ -5,7 +5,7 @@ description: "VPN Mundo compara StrongVPN, ExpressVPN, Surfshark y FlowVPN para 
 ---
 
 # Mejores VPN 2026 para streaming, viajes y Wi-Fi público
-**Última actualización: 20 de agosto de 2026 - VPN Mundo**
+**Última actualización: 24 de agosto de 2026 - VPN Mundo**
 
 VPN Mundo es una comparativa práctica para usuarios de España, Latinoamérica y viajeros que necesitan una VPN estable para streaming, privacidad y uso diario. No intentamos vender una VPN como mágica: medimos velocidad, revisamos precio, explicamos para qué caso conviene cada servicio y mantenemos una gráfica diaria de rendimiento.
 
@@ -204,12 +204,12 @@ En la mayoría de países hispanohablantes, usar VPN para privacidad y seguridad
 Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación y pruebas detalladas de cada proveedor.
 
 <!-- NEWS_START -->
-#### 20 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
-- **NCSC alerta sobre ataques de correo sin clic**: una campaña contra servidores Zimbra sin actualizar puede comprometer mensajes con solo visualizar un correo malicioso; las organizaciones deben parchear y reforzar la supervisión. [Aviso oficial](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign)
-- **Firewalls y puertas de enlace VPN de Fortinet siguen bajo ataque**: NCSC recomienda revisar cuentas y registros, actualizar los equipos, eliminar contraseñas reutilizadas y activar MFA en accesos VPN y administrativos. [Aviso oficial](https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways)
-- **Mozilla corrige fallos graves en Firefox y Firefox ESR**: el boletín incluye problemas de aislamiento de sitios, política de mismo origen, escape del sandbox y seguridad de memoria; conviene comprobar que el navegador esté actualizado. [Aviso oficial](https://www.mozilla.org/en-US/security/advisories/mfsa2026-69/)
-- **Cloudflare y los principales navegadores impulsan una verificación más privada**: PACT busca distinguir tráfico legítimo, agentes de IA y abuso automatizado sin depender de seguimiento invasivo. [Anuncio oficial](https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/)
-- **Android 17 refuerza la protección contra estafas, robos y permisos excesivos**: Google presentó ubicación precisa temporal, selector de contactos y nuevas defensas del dispositivo; una VPN debe complementarse con actualizaciones y MFA. [Anuncio oficial](https://blog.google/security/whats-new-in-android-security-privacy-2026/)
+#### 24 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
+- **Firefox 154 corrige varias vulnerabilidades de alto impacto**: Mozilla solucionó un escape del sandbox, fallos de aislamiento de sitios, escalada de privilegios y seguridad de memoria; comprueba que utilizas Firefox 154 o posterior. [Aviso oficial](https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/)
+- **Un estándar europeo de seguridad para VPN entra en aprobación**: el borrador EN 304 620 de ETSI establece requisitos y criterios de evaluación para productos VPN bajo la Ley de Ciberresiliencia de la UE; aún no es una norma definitiva. [Estado oficial](https://portal.etsi.org/webapp/workprogram/Report_WorkItem.asp?WKI_ID=74409)
+- **Mullvad prueba multihop automático y un mapa interactivo de servidores**: Android 2026.9-beta1 puede activar multihop cuando la configuración lo requiere y mejora la búsqueda de ubicaciones; sigue siendo una versión beta. [Notas oficiales](https://github.com/mullvad/mullvadvpn-app/releases/tag/android%2F2026.9-beta1)
+- **ExpressVPN pide limitar los datos visibles en fotos escolares**: su nueva investigación y las recomendaciones de IWF advierten sobre nombres, colegios, ubicaciones y cumpleaños; conviene revisar el consentimiento y la audiencia antes de publicar. [Artículo oficial](https://www.expressvpn.com/blog/back-to-school-photo-privacy/)
+- **Aumenta la demanda de VPN tras nuevas restricciones en Vietnam**: Proton VPN informa que los registros llegaron aproximadamente al triple del nivel de comienzos de mes; la empresa aclara que la coincidencia temporal indica correlación, no una causa única demostrada. [Observación oficial](https://protonvpn.com/blog/vietnam-vpn-spike)
 <!-- NEWS_END -->
 
 > ## Navegación de contenido del artículo
@@ -255,7 +255,7 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 > ### 20. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
 > ### 21. [VPN para Apple TV](#vpn-para-apple-tv)
 > #### 23.1 [Limitaciones de VPN y soluciones](#limitaciones-de-vpn-y-soluciones)
-**Última actualización: 20 de agosto de 2026**
+**Última actualización: 24 de agosto de 2026**
 
 >**Esta guía se centra en el uso real de una VPN para streaming, viajes, trabajo remoto y privacidad. Muchos comparadores repiten listas de marcas sin explicar si la VPN sirve para ver una plataforma concreta, proteger una conexión en Wi-Fi público o mantener buena velocidad durante una videollamada. Aquí reunimos pruebas de velocidad, tutoriales de instalación y criterios prácticos para elegir sin perder dinero.**
 
