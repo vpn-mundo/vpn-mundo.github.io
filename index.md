@@ -5,7 +5,7 @@ description: "VPN Mundo compara StrongVPN, ExpressVPN, Surfshark y FlowVPN para 
 ---
 
 # Mejores VPN 2026 para streaming, viajes y Wi-Fi público
-**Última actualización: 24 de agosto de 2026 - VPN Mundo**
+**Última actualización: 30 de agosto de 2026 - VPN Mundo**
 
 VPN Mundo es una comparativa práctica para usuarios de España, Latinoamérica y viajeros que necesitan una VPN estable para streaming, privacidad y uso diario. No intentamos vender una VPN como mágica: medimos velocidad, revisamos precio, explicamos para qué caso conviene cada servicio y mantenemos una gráfica diaria de rendimiento.
 
@@ -204,7 +204,7 @@ En la mayoría de países hispanohablantes, usar VPN para privacidad y seguridad
 Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación y pruebas detalladas de cada proveedor.
 
 <!-- NEWS_START -->
-#### 24 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
+#### 30 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
 - **Firefox 154 corrige varias vulnerabilidades de alto impacto**: Mozilla solucionó un escape del sandbox, fallos de aislamiento de sitios, escalada de privilegios y seguridad de memoria; comprueba que utilizas Firefox 154 o posterior. [Aviso oficial](https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/)
 - **Un estándar europeo de seguridad para VPN entra en aprobación**: el borrador EN 304 620 de ETSI establece requisitos y criterios de evaluación para productos VPN bajo la Ley de Ciberresiliencia de la UE; aún no es una norma definitiva. [Estado oficial](https://portal.etsi.org/webapp/workprogram/Report_WorkItem.asp?WKI_ID=74409)
 - **Mullvad prueba multihop automático y un mapa interactivo de servidores**: Android 2026.9-beta1 puede activar multihop cuando la configuración lo requiere y mejora la búsqueda de ubicaciones; sigue siendo una versión beta. [Notas oficiales](https://github.com/mullvad/mullvadvpn-app/releases/tag/android%2F2026.9-beta1)
@@ -255,7 +255,7 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 > ### 20. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
 > ### 21. [VPN para Apple TV](#vpn-para-apple-tv)
 > #### 23.1 [Limitaciones de VPN y soluciones](#limitaciones-de-vpn-y-soluciones)
-**Última actualización: 24 de agosto de 2026**
+**Última actualización: 30 de agosto de 2026**
 
 >**Esta guía se centra en el uso real de una VPN para streaming, viajes, trabajo remoto y privacidad. Muchos comparadores repiten listas de marcas sin explicar si la VPN sirve para ver una plataforma concreta, proteger una conexión en Wi-Fi público o mantener buena velocidad durante una videollamada. Aquí reunimos pruebas de velocidad, tutoriales de instalación y criterios prácticos para elegir sin perder dinero.**
 
