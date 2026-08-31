@@ -5,7 +5,7 @@ description: "VPN Mundo compara StrongVPN, ExpressVPN, Surfshark y FlowVPN para 
 ---
 
 # Mejores VPN 2026 para streaming, viajes y Wi-Fi público
-**Última actualización: 30 de agosto de 2026 - VPN Mundo**
+**Última actualización: 1 de septiembre de 2026 - VPN Mundo**
 
 VPN Mundo es una comparativa práctica para usuarios de España, Latinoamérica y viajeros que necesitan una VPN estable para streaming, privacidad y uso diario. No intentamos vender una VPN como mágica: medimos velocidad, revisamos precio, explicamos para qué caso conviene cada servicio y mantenemos una gráfica diaria de rendimiento.
 
@@ -204,12 +204,12 @@ En la mayoría de países hispanohablantes, usar VPN para privacidad y seguridad
 Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación y pruebas detalladas de cada proveedor.
 
 <!-- NEWS_START -->
-#### 30 de agosto de 2026: noticias de VPN, privacidad y ciberseguridad
-- **Firefox 154 corrige varias vulnerabilidades de alto impacto**: Mozilla solucionó un escape del sandbox, fallos de aislamiento de sitios, escalada de privilegios y seguridad de memoria; comprueba que utilizas Firefox 154 o posterior. [Aviso oficial](https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/)
-- **Un estándar europeo de seguridad para VPN entra en aprobación**: el borrador EN 304 620 de ETSI establece requisitos y criterios de evaluación para productos VPN bajo la Ley de Ciberresiliencia de la UE; aún no es una norma definitiva. [Estado oficial](https://portal.etsi.org/webapp/workprogram/Report_WorkItem.asp?WKI_ID=74409)
-- **Mullvad prueba multihop automático y un mapa interactivo de servidores**: Android 2026.9-beta1 puede activar multihop cuando la configuración lo requiere y mejora la búsqueda de ubicaciones; sigue siendo una versión beta. [Notas oficiales](https://github.com/mullvad/mullvadvpn-app/releases/tag/android%2F2026.9-beta1)
-- **ExpressVPN pide limitar los datos visibles en fotos escolares**: su nueva investigación y las recomendaciones de IWF advierten sobre nombres, colegios, ubicaciones y cumpleaños; conviene revisar el consentimiento y la audiencia antes de publicar. [Artículo oficial](https://www.expressvpn.com/blog/back-to-school-photo-privacy/)
-- **Aumenta la demanda de VPN tras nuevas restricciones en Vietnam**: Proton VPN informa que los registros llegaron aproximadamente al triple del nivel de comienzos de mes; la empresa aclara que la coincidencia temporal indica correlación, no una causa única demostrada. [Observación oficial](https://protonvpn.com/blog/vietnam-vpn-spike)
+#### 1 de septiembre de 2026: noticias de VPN, privacidad y ciberseguridad
+- **ExpressVPN ya está disponible en dispositivos Amazon Vega OS compatibles**: los usuarios de Fire TV, incluido Fire TV Stick 4K Select, pueden instalar la app desde Amazon Appstore y controlar la conexión con el mando. [Anuncio oficial](https://www.expressvpn.com/blog/expressvpn-amazon-vega-os/)
+- **Vega OS puede enviar algunas consultas DNS fuera del túnel VPN**: ExpressVPN explica que es un comportamiento del sistema operativo que afecta a las apps VPN en general; el tráfico cifrado sigue protegido, pero conviene conocer esta limitación. [Nota oficial](https://www.expressvpn.com/support/troubleshooting/dns-queries-vega-os/)
+- **Proton VPN publica en beta un nuevo núcleo de protocolos**: Proton Protocols ya puede probarse en Windows, Android, iOS/iPadOS y Linux, con el objetivo de mejorar estabilidad, resistencia a la censura y desarrollo multiplataforma. [Publicación oficial](https://protonvpn.com/blog/introducing-proton-protocols)
+- **ExpressVPN publica su informe de transparencia del primer semestre de 2026**: la empresa afirma que ninguna solicitud reveló actividad VPN o registros de conexión; recibió 392 envíos de seguridad y clasificó 42 informes únicos como válidos. [Informe oficial](https://www.expressvpn.com/blog/transparency-report-h1-2026/)
+- **Mullvad Android 2026.9-beta1 añade multihop condicional**: la beta incorpora un mapa interactivo, multihop automático cuando la configuración lo requiere y una búsqueda mejorada; todavía no es una versión estable general. [Registro oficial](https://github.com/mullvad/mullvadvpn-app/blob/main/android/CHANGELOG.md)
 <!-- NEWS_END -->
 
 > ## Navegación de contenido del artículo
@@ -255,7 +255,7 @@ Debajo mantenemos las noticias VPN, guías de compra, tutoriales de instalación
 > ### 20. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
 > ### 21. [VPN para Apple TV](#vpn-para-apple-tv)
 > #### 23.1 [Limitaciones de VPN y soluciones](#limitaciones-de-vpn-y-soluciones)
-**Última actualización: 30 de agosto de 2026**
+**Última actualización: 1 de septiembre de 2026**
 
 >**Esta guía se centra en el uso real de una VPN para streaming, viajes, trabajo remoto y privacidad. Muchos comparadores repiten listas de marcas sin explicar si la VPN sirve para ver una plataforma concreta, proteger una conexión en Wi-Fi público o mantener buena velocidad durante una videollamada. Aquí reunimos pruebas de velocidad, tutoriales de instalación y criterios prácticos para elegir sin perder dinero.**
 
