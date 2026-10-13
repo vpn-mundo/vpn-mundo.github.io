@@ -5,7 +5,7 @@ description: "VPN Mundo compara StrongVPN, ExpressVPN, Surfshark y FlowVPN para 
 ---
 
 # Mejores VPN 2026 para streaming, viajes y Wi-Fi público
-**Última actualización: 7 de octubre de 2026 - VPN Mundo**
+**Última actualización: 14 de octubre de 2026 - VPN Mundo**
 
 VPN Mundo no trata a España y Latinoamérica como un único mercado. La misma oferta en dólares puede ser razonable en un país y muy cara en otro; RTVE Play no es ViX, Movistar Plus+ no es Claro video y una tarjeta aceptada en España puede fallar en Argentina, México, Colombia o Chile. Por eso comparamos primero la ruta real, la moneda y la plataforma, y solo después la marca.
 
@@ -107,7 +107,7 @@ No existe una única “mejor VPN en español”. Sí existe una primera compra 
 Divulgación: podemos recibir una comisión por compras realizadas desde los enlaces. Eso no cambia los límites de la prueba ni convierte una gráfica de velocidad en garantía de streaming.
 
 <!-- NEWS_START -->
-#### 4 de octubre de 2026: noticias de VPN, privacidad y ciberseguridad
+#### 14 de octubre de 2026: noticias de VPN, privacidad y ciberseguridad
 - **ExpressVPN ya está disponible en dispositivos Amazon Vega OS compatibles**: los usuarios de Fire TV, incluido Fire TV Stick 4K Select, pueden instalar la app desde Amazon Appstore y controlar la conexión con el mando. [Anuncio oficial](https://www.expressvpn.com/blog/expressvpn-amazon-vega-os/)
 - **Vega OS puede enviar algunas consultas DNS fuera del túnel VPN**: ExpressVPN explica que es un comportamiento del sistema operativo que afecta a las apps VPN en general; el tráfico cifrado sigue protegido, pero conviene conocer esta limitación. [Nota oficial](https://www.expressvpn.com/support/troubleshooting/dns-queries-vega-os/)
 - **Proton VPN publica en beta un nuevo núcleo de protocolos**: Proton Protocols ya puede probarse en Windows, Android, iOS/iPadOS y Linux, con el objetivo de mejorar estabilidad, resistencia a la censura y desarrollo multiplataforma. [Publicación oficial](https://protonvpn.com/blog/introducing-proton-protocols)
@@ -158,7 +158,7 @@ Divulgación: podemos recibir una comisión por compras realizadas desde los enl
 > ### 20. [Configuración y consejos para BitTorrent con VPN](#configuracion-y-consejos-para-bittorrent-con-vpn)
 > ### 21. [VPN para Apple TV](#vpn-para-apple-tv)
 > #### 23.1 [Limitaciones de VPN y soluciones](#limitaciones-de-vpn-y-soluciones)
-**Última actualización: 4 de octubre de 2026**
+**Última actualización: 14 de octubre de 2026**
 
 >**Esta guía se centra en el uso real de una VPN para streaming, viajes, trabajo remoto y privacidad. Muchos comparadores repiten listas de marcas sin explicar si la VPN sirve para ver una plataforma concreta, proteger una conexión en Wi-Fi público o mantener buena velocidad durante una videollamada. Aquí reunimos pruebas de velocidad, tutoriales de instalación y criterios prácticos para elegir sin perder dinero.**
 
