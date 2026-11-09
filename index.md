@@ -49,6 +49,8 @@ Usamos como referencia 1 USD ≈ 0,86 EUR. En Latinoamérica, convierte el **tot
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=streaming) | Starter largo aprox. US$53.73 (≈46,21 EUR) más impuestos; renovación US$79/año (≈67,94 EUR) | Buen coste por dispositivo si necesitas ilimitados y aceptas el plazo largo |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github) | Prueba de 3 días; US$6.99 mensual; anual promo US$39.99, regular US$49.99 | Útil para prueba o respaldo; confirma elegibilidad y conversión del ensayo |
 
+**Actualización de pago de StrongVPN (9 de noviembre de 2026):** Alipay ya no está disponible. Si pensabas usarlo, elige una tarjeta de crédito/débito UnionPay o PayPal; confirma las demás opciones en el checkout.
+
 ## Prueba la plataforma que realmente vas a usar
 
 | Objetivo | Qué comprobar | Condición mínima para conservar la VPN |
@@ -384,7 +386,7 @@ En resumen, al elegir una VPN, lee detalladamente las políticas de privacidad d
 
 <a name="tutorial-de-compra-con-pagos-internacionales-para-strongvpn"></a>
 ## StrongVPN - Tutorial paso a paso con pagos internacionales
-Una característica destacada de **StrongVPN** es su soporte para pagos internacionales, ideal para quienes prefieren esta opción. También te recomendamos considerar **FlowVPN** si buscas alternativas similares.
+**Actualización de pago (9 de noviembre de 2026):** StrongVPN ya no ofrece Alipay. Si pensabas usarlo, elige una tarjeta de crédito/débito UnionPay o PayPal. Las demás opciones pueden variar y el checkout es la referencia final.
 
 ### Paso 1: Accede a nuestra oferta exclusiva
 Visita nuestro enlace exclusivo [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=es-body&data2=title) y haz clic en "Start Now" (ver imagen abajo).  
@@ -398,8 +400,7 @@ Tras registrarte en FlowVPN, selecciona Reino Unido y vuelve a StrongVPN. La pá
 <img src="./image/strong/s3-1.png" alt="Plan StrongVPN" width="1000"/>
 
 ### Paso 3: Elige tu método de pago
-Desplázate hacia abajo y selecciona pagos internacionales, tarjetas de banco (incluyendo Visa o MasterCard, también acepta tarjetas extranjeras), o PayPal.  
-<img src="./image/strong/s4-1.PNG" alt="Métodos de pago" width="1000"/>
+Desplázate hacia abajo hasta la sección de pago. Alipay ya no está disponible; selecciona una tarjeta de crédito/débito UnionPay o PayPal y confirma la opción antes de pagar.
 
 ### Tutorial de configuración de StrongVPN en dispositivos móviles (Android/iOS)
 <a name="Tutorial de configuración de StrongVPN en Android/iOS"></a>
