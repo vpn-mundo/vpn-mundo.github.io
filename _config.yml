@@ -14,16 +14,12 @@ logo_url: https://github.githubassets.com/images/icons/emoji/globe.png
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 
 buttons:
-  zip_url: https://github.com/VPNuniverse/VPNuniverse.github.io
-  zip_title: Download the VPNuniverse introduction
+  zip_url: https://github.com/vpn-mundo/vpn-mundo.github.io
+  zip_title: Abrir el repositorio de VPN Mundo
   zip_hide: false
   tar_hide: true
   github_hide: true
 
 permalink: /:path/
-
-collections:
-  es:
-    output: true
-  en:
-    output: true
+exclude:
+  - tw
